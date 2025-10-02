@@ -12861,3 +12861,496 @@ dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 2025-10-01 16:19:29,406 - Cargando... esperando que termine el proceso.
 2025-10-01 16:21:43,289 - Captura Pantalla: ./fotosPDV/1123561702.png
 2025-10-01 16:21:50,519 - Envió imagen al Telegram
+2025-10-01 16:21:56,546 - Mensaje_exito: None.
+2025-10-01 16:21:56,578 - Se abre Bnet
+2025-10-01 16:22:04,444 - Ingreso a contratopersonas
+2025-10-01 16:22:04,449 - Se encuentra el campo dcto. principal
+2025-10-01 16:22:04,450 - La pagina se carga correctamente
+2025-10-01 16:22:07,452 - Se consulta el documento: 1006775023
+2025-10-01 16:22:08,596 - El campo nombre es:KEIDY TATIANA, de la cedula: 1006775023
+2025-10-01 16:22:08,906 - Se encontro el enlace: Personal ventas
+2025-10-01 16:22:14,151 - Se encuentra el campo Grupo de Planes
+2025-10-01 16:22:16,181 - Se escribe en el campo 
+2025-10-01 16:22:20,231 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1089e893-1653-421f-98b3-b42ece0ac377", element="ef6805df-f1bc-4e09-9bd0-0c5f3dfd8df2")>
+2025-10-01 16:22:25,563 - Cargando... esperando que termine el proceso.
+2025-10-01 16:24:37,559 - Captura Pantalla: ./fotosPDV/1006775023.png
+2025-10-01 16:24:45,072 - Envió imagen al Telegram
+2025-10-01 16:25:01,415 - Se abre Bnet
+2025-10-01 16:25:09,390 - Ingreso a contratopersonas
+2025-10-01 16:25:09,395 - Se encuentra el campo dcto. principal
+2025-10-01 16:25:09,395 - La pagina se carga correctamente
+2025-10-01 16:25:12,401 - Se consulta el documento: 1006797846
+2025-10-01 16:25:13,472 - El campo nombre es:ANGIE VALENTINA, de la cedula: 1006797846
+2025-10-01 16:25:13,792 - Se encontro el enlace: Personal ventas
+2025-10-01 16:25:19,066 - Se encuentra el campo Grupo de Planes
+2025-10-01 16:25:21,089 - Se escribe en el campo 
+2025-10-01 16:25:26,217 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1089e893-1653-421f-98b3-b42ece0ac377", element="76b516c4-4d34-4cf1-b266-0828c716ccc0")>
+2025-10-01 16:25:42,979 - Cargando... esperando que termine el proceso.
+2025-10-01 16:27:51,275 - Captura Pantalla: ./fotosPDV/1006797846.png
+2025-10-01 16:27:58,420 - Envió imagen al Telegram
+2025-10-01 16:28:14,866 - Se abre Bnet
+2025-10-01 16:28:23,407 - Ingreso a contratopersonas
+2025-10-01 16:28:23,430 - Se encuentra el campo dcto. principal
+2025-10-01 16:28:23,430 - La pagina se carga correctamente
+2025-10-01 16:28:26,447 - Se consulta el documento: 1003583504
+2025-10-01 16:28:27,597 - El campo nombre es:MAGDA LORENA, de la cedula: 1003583504
+2025-10-01 16:28:27,921 - Se encontro el enlace: Personal ventas
+2025-10-01 16:28:33,208 - Se encuentra el campo Grupo de Planes
+2025-10-01 16:28:35,242 - Se escribe en el campo 
+2025-10-01 16:28:39,280 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1089e893-1653-421f-98b3-b42ece0ac377", element="7507f8df-9ab9-46f0-afc1-69cea8114193")>
+2025-10-01 16:28:44,599 - Cargando... esperando que termine el proceso.
+2025-10-01 16:30:58,490 - Captura Pantalla: ./fotosPDV/1003583504.png
+2025-10-01 16:31:05,310 - Envió imagen al Telegram
+2025-10-01 16:31:21,702 - Se abre Bnet
+2025-10-01 16:31:29,620 - Ingreso a contratopersonas
+2025-10-01 16:31:29,696 - Se encuentra el campo dcto. principal
+2025-10-01 16:31:29,696 - La pagina se carga correctamente
+2025-10-01 16:31:32,709 - Se consulta el documento: 1121146010
+2025-10-01 16:31:33,785 - El campo nombre es:DIANA CAROLINA, de la cedula: 1121146010
+2025-10-01 16:31:34,093 - Se encontro el enlace: Personal ventas
+2025-10-01 16:31:39,380 - Se encuentra el campo Grupo de Planes
+2025-10-01 16:31:41,411 - Se escribe en el campo 
+2025-10-01 16:31:45,469 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1089e893-1653-421f-98b3-b42ece0ac377", element="d4ca3ea5-1417-456c-bb59-100ebb36c0ef")>
+2025-10-01 16:31:50,801 - Cargando... esperando que termine el proceso.
+2025-10-01 16:34:06,717 - Captura Pantalla: ./fotosPDV/1121146010.png
+2025-10-01 16:34:13,864 - Envió imagen al Telegram
+2025-10-01 16:34:30,260 - Se abre Bnet
+2025-10-01 16:34:38,216 - Ingreso a contratopersonas
+2025-10-01 16:34:38,225 - Se encuentra el campo dcto. principal
+2025-10-01 16:34:38,225 - La pagina se carga correctamente
+2025-10-01 16:34:41,241 - Se consulta el documento: 1122653301
+2025-10-01 16:34:42,830 - El campo nombre es:LINA MARIA, de la cedula: 1122653301
+2025-10-01 16:34:43,751 - Se encontro el enlace: Personal ventas
+2025-10-01 16:34:49,032 - Se encuentra el campo Grupo de Planes
+2025-10-01 16:34:51,055 - Se escribe en el campo 
+2025-10-01 16:34:55,105 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1089e893-1653-421f-98b3-b42ece0ac377", element="1c7fda30-4233-45ac-aec9-ffe52b000c3c")>
+2025-10-01 16:35:00,423 - Cargando... esperando que termine el proceso.
+2025-10-01 16:37:16,357 - Captura Pantalla: ./fotosPDV/1122653301.png
+2025-10-01 16:37:24,434 - Envió imagen al Telegram
+2025-10-01 16:37:40,783 - Se abre Bnet
+2025-10-01 16:37:49,020 - Ingreso a contratopersonas
+2025-10-01 16:37:49,024 - Se encuentra el campo dcto. principal
+2025-10-01 16:37:49,024 - La pagina se carga correctamente
+2025-10-01 16:37:52,032 - Se consulta el documento: 1121879243
+2025-10-01 16:37:53,101 - El campo nombre es:MALORY JOHAYRA, de la cedula: 1121879243
+2025-10-01 16:37:53,422 - Se encontro el enlace: Personal ventas
+2025-10-01 16:37:58,710 - Se encuentra el campo Grupo de Planes
+2025-10-01 16:38:00,750 - Se escribe en el campo 
+2025-10-01 16:38:04,791 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1089e893-1653-421f-98b3-b42ece0ac377", element="973d749e-5c4e-4243-8261-f56a6df11fd6")>
+2025-10-01 16:38:10,109 - Cargando... esperando que termine el proceso.
+2025-10-01 16:40:25,980 - Captura Pantalla: ./fotosPDV/1121879243.png
+2025-10-01 16:40:33,304 - Envió imagen al Telegram
+2025-10-01 16:40:39,330 - Mensaje_exito: None.
+2025-10-01 16:40:39,370 - Se abre Bnet
+2025-10-01 16:40:47,696 - Ingreso a contratopersonas
+2025-10-01 16:40:47,704 - Se encuentra el campo dcto. principal
+2025-10-01 16:40:47,705 - La pagina se carga correctamente
+2025-10-01 16:40:50,713 - Se consulta el documento: 1120365722
+2025-10-01 16:40:51,781 - El campo nombre es:ALIXON JULIETH, de la cedula: 1120365722
+2025-10-01 16:40:52,087 - Se encontro el enlace: Personal ventas
+2025-10-01 16:40:57,373 - Se encuentra el campo Grupo de Planes
+2025-10-01 16:40:59,396 - Se escribe en el campo 
+2025-10-01 16:41:03,428 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1089e893-1653-421f-98b3-b42ece0ac377", element="d82dfb01-ee44-447c-9d35-e93b7b2e259a")>
+2025-10-01 16:41:08,752 - Cargando... esperando que termine el proceso.
+2025-10-01 16:43:24,753 - Captura Pantalla: ./fotosPDV/1120365722.png
+2025-10-01 16:43:32,293 - Envió imagen al Telegram
+2025-10-01 16:43:38,315 - Mensaje_exito: None.
+2025-10-01 16:43:38,361 - Se abre Bnet
+2025-10-01 16:43:46,149 - Ingreso a contratopersonas
+2025-10-01 16:43:46,154 - Se encuentra el campo dcto. principal
+2025-10-01 16:43:46,154 - La pagina se carga correctamente
+2025-10-01 16:43:49,165 - Se consulta el documento: 1121948797
+2025-10-01 16:43:50,239 - El campo nombre es:DIANA TATIANA, de la cedula: 1121948797
+2025-10-01 16:43:50,543 - Se encontro el enlace: Personal ventas
+2025-10-01 16:43:55,826 - Se encuentra el campo Grupo de Planes
+2025-10-01 16:43:57,866 - Se escribe en el campo 
+2025-10-01 16:44:01,913 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1089e893-1653-421f-98b3-b42ece0ac377", element="711eba26-16b2-47f5-9d10-7ae91df60a2b")>
+2025-10-01 16:44:07,241 - Cargando... esperando que termine el proceso.
+2025-10-01 16:46:21,251 - Captura Pantalla: ./fotosPDV/1121948797.png
+2025-10-01 16:46:28,435 - Envió imagen al Telegram
+2025-10-01 16:46:34,460 - Mensaje_exito: None.
+2025-10-01 16:46:34,501 - Se abre Bnet
+2025-10-01 16:46:42,992 - Ingreso a contratopersonas
+2025-10-01 16:46:42,997 - Se encuentra el campo dcto. principal
+2025-10-01 16:46:42,997 - La pagina se carga correctamente
+2025-10-01 16:46:46,004 - Se consulta el documento: 1120559199
+2025-10-01 16:46:48,112 - El campo nombre es:LUISA FERNANDA, de la cedula: 1120559199
+2025-10-01 16:46:48,419 - Se encontro el enlace: Personal ventas
+2025-10-01 16:46:53,706 - Se encuentra el campo Grupo de Planes
+2025-10-01 16:46:55,738 - Se escribe en el campo 
+2025-10-01 16:46:59,778 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1089e893-1653-421f-98b3-b42ece0ac377", element="49e8598d-1d90-4d59-bb74-28e8761938d0")>
+2025-10-01 16:47:05,094 - Cargando... esperando que termine el proceso.
+2025-10-01 16:49:21,165 - Captura Pantalla: ./fotosPDV/1120559199.png
+2025-10-01 16:49:29,632 - Envió imagen al Telegram
+2025-10-01 16:49:35,663 - Mensaje_exito: None.
+2025-10-01 16:49:35,704 - Se abre Bnet
+2025-10-01 16:49:44,039 - Ingreso a contratopersonas
+2025-10-01 16:49:44,042 - Se encuentra el campo dcto. principal
+2025-10-01 16:49:44,042 - La pagina se carga correctamente
+2025-10-01 16:49:47,055 - Se consulta el documento: 1006690427
+2025-10-01 16:49:48,653 - El campo nombre es:DIANA MARCELA, de la cedula: 1006690427
+2025-10-01 16:49:48,957 - Se encontro el enlace: Personal ventas
+2025-10-01 16:49:54,247 - Se encuentra el campo Grupo de Planes
+2025-10-01 16:49:56,274 - Se escribe en el campo 
+2025-10-01 16:50:00,323 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1089e893-1653-421f-98b3-b42ece0ac377", element="a13581a0-5c69-4a6c-983d-a7f473933856")>
+2025-10-01 16:50:05,653 - Cargando... esperando que termine el proceso.
+2025-10-01 16:52:21,698 - Captura Pantalla: ./fotosPDV/1006690427.png
+2025-10-01 16:52:29,155 - Envió imagen al Telegram
+2025-10-01 16:52:35,182 - Mensaje_exito: None.
+2025-10-01 16:52:35,223 - Se abre Bnet
+2025-10-01 16:52:43,577 - Ingreso a contratopersonas
+2025-10-01 16:52:43,580 - Se encuentra el campo dcto. principal
+2025-10-01 16:52:43,581 - La pagina se carga correctamente
+2025-10-01 16:52:46,584 - Se consulta el documento: 1121720012
+2025-10-01 16:52:47,657 - El campo nombre es:TATIANA VANESA, de la cedula: 1121720012
+2025-10-01 16:52:47,963 - Se encontro el enlace: Personal ventas
+2025-10-01 16:52:53,253 - Se encuentra el campo Grupo de Planes
+2025-10-01 16:52:55,288 - Se escribe en el campo 
+2025-10-01 16:52:59,321 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1089e893-1653-421f-98b3-b42ece0ac377", element="a214de17-b53e-4bc0-aa76-fa8f56264adc")>
+2025-10-01 16:53:04,649 - Cargando... esperando que termine el proceso.
+2025-10-01 16:55:18,610 - Captura Pantalla: ./fotosPDV/1121720012.png
+2025-10-01 16:55:25,894 - Envió imagen al Telegram
+2025-10-01 16:55:31,924 - Mensaje_exito: None.
+2025-10-01 16:55:31,985 - Se abre Bnet
+2025-10-01 16:55:40,578 - Ingreso a contratopersonas
+2025-10-01 16:55:40,581 - Se encuentra el campo dcto. principal
+2025-10-01 16:55:40,582 - La pagina se carga correctamente
+2025-10-01 16:55:43,600 - Se consulta el documento: 1121961367
+2025-10-01 16:55:44,678 - El campo nombre es:ANGELICA SIOMARA, de la cedula: 1121961367
+2025-10-01 16:55:44,981 - Se encontro el enlace: Personal ventas
+2025-10-01 16:55:50,268 - Se encuentra el campo Grupo de Planes
+2025-10-01 16:55:52,295 - Se escribe en el campo 
+2025-10-01 16:55:56,350 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1089e893-1653-421f-98b3-b42ece0ac377", element="9da3ae37-6550-40c6-8401-51afc462bb35")>
+2025-10-01 16:56:01,661 - Cargando... esperando que termine el proceso.
+2025-10-01 16:58:17,726 - Captura Pantalla: ./fotosPDV/1121961367.png
+2025-10-01 16:58:24,808 - Envió imagen al Telegram
+2025-10-01 16:58:30,843 - Mensaje_exito: None.
+2025-10-01 16:58:30,881 - Se abre Bnet
+2025-10-01 16:58:38,487 - Ingreso a contratopersonas
+2025-10-01 16:58:38,491 - Se encuentra el campo dcto. principal
+2025-10-01 16:58:38,492 - La pagina se carga correctamente
+2025-10-01 16:58:41,499 - Se consulta el documento: 40186992
+2025-10-01 16:58:42,573 - El campo nombre es:DEICY CAROLINA, de la cedula: 40186992
+2025-10-01 16:58:42,890 - Se encontro el enlace: Personal ventas
+2025-10-01 16:58:48,172 - Se encuentra el campo Grupo de Planes
+2025-10-01 16:58:50,202 - Se escribe en el campo 
+2025-10-01 16:58:54,238 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1089e893-1653-421f-98b3-b42ece0ac377", element="6b2c7a47-a2cc-4c5f-817f-765df00528bf")>
+2025-10-01 16:58:59,557 - Cargando... esperando que termine el proceso.
+2025-10-01 16:59:12,627 - Captura Pantalla: ./fotosPDV/40186992.png
+2025-10-01 16:59:19,645 - Envió imagen al Telegram
+2025-10-01 16:59:36,036 - Se abre Bnet
+2025-10-01 17:00:05,279 - Ingreso a contratopersonas
+2025-10-01 17:00:15,591 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:00:15,592 - Se consulta el documento: 1010123626
+2025-10-01 17:00:36,246 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:00:46,603 - Se abre Bnet
+2025-10-01 17:00:52,847 - Ingreso a contratopersonas
+2025-10-01 17:01:03,195 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:01:03,195 - Se consulta el documento: 1234789441
+2025-10-01 17:01:23,795 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:01:34,158 - Se abre Bnet
+2025-10-01 17:01:40,391 - Ingreso a contratopersonas
+2025-10-01 17:01:50,715 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:01:50,715 - Se consulta el documento: 1123431666
+2025-10-01 17:02:11,356 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:02:21,682 - Se abre Bnet
+2025-10-01 17:02:27,926 - Ingreso a contratopersonas
+2025-10-01 17:02:38,255 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:02:38,255 - Se consulta el documento: 1006859731
+2025-10-01 17:02:58,891 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:03:09,257 - Se abre Bnet
+2025-10-01 17:03:15,505 - Ingreso a contratopersonas
+2025-10-01 17:03:25,825 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:03:25,825 - Se consulta el documento: 1120385112
+2025-10-01 17:03:46,494 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:03:56,825 - Se abre Bnet
+2025-10-01 17:04:03,245 - Ingreso a contratopersonas
+2025-10-01 17:04:13,560 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:04:13,560 - Se consulta el documento: 1121921356
+2025-10-01 17:04:34,170 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:04:44,492 - Se abre Bnet
+2025-10-01 17:04:50,716 - Ingreso a contratopersonas
+2025-10-01 17:05:01,032 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:05:01,033 - Se consulta el documento: 1006774144
+2025-10-01 17:05:21,652 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:05:32,024 - Se abre Bnet
+2025-10-01 17:05:38,299 - Ingreso a contratopersonas
+2025-10-01 17:05:48,580 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:05:48,580 - Se consulta el documento: 1123140904
+2025-10-01 17:06:09,178 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:06:19,512 - Se abre Bnet
+2025-10-01 17:06:25,754 - Ingreso a contratopersonas
+2025-10-01 17:06:36,048 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:06:36,048 - Se consulta el documento: 1010031875
+2025-10-01 17:06:56,597 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:07:06,971 - Se abre Bnet
+2025-10-01 17:07:13,292 - Ingreso a contratopersonas
+2025-10-01 17:07:23,600 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:07:23,600 - Se consulta el documento: 46376887
+2025-10-01 17:07:44,172 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:07:54,503 - Se abre Bnet
+2025-10-01 17:08:00,743 - Ingreso a contratopersonas
+2025-10-01 17:08:11,031 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:08:11,031 - Se consulta el documento: 1006820624
+2025-10-01 17:08:31,631 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:08:41,961 - Se abre Bnet
+2025-10-01 17:08:48,182 - Ingreso a contratopersonas
+2025-10-01 17:08:58,453 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:08:58,453 - Se consulta el documento: 1121833506
+2025-10-01 17:09:19,075 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:09:29,414 - Se abre Bnet
+2025-10-01 17:09:35,639 - Ingreso a contratopersonas
+2025-10-01 17:09:45,935 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:09:45,935 - Se consulta el documento: 1121888058
+2025-10-01 17:10:06,515 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:10:16,857 - Se abre Bnet
+2025-10-01 17:10:23,104 - Ingreso a contratopersonas
+2025-10-01 17:10:33,389 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:10:33,389 - Se consulta el documento: 1122919487
+2025-10-01 17:10:54,024 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:11:04,336 - Se abre Bnet
+2025-10-01 17:11:10,589 - Ingreso a contratopersonas
+2025-10-01 17:11:20,912 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:11:20,912 - Se consulta el documento: 1193221023
+2025-10-01 17:11:41,502 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:11:51,842 - Se abre Bnet
+2025-10-01 17:11:58,269 - Ingreso a contratopersonas
+2025-10-01 17:12:08,608 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:12:08,608 - Se consulta el documento: 1121872788
+2025-10-01 17:12:29,200 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:12:39,566 - Se abre Bnet
+2025-10-01 17:12:45,778 - Ingreso a contratopersonas
+2025-10-01 17:12:56,081 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:12:56,081 - Se consulta el documento: 1069735886
+2025-10-01 17:13:16,700 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:13:27,035 - Se abre Bnet
+2025-10-01 17:13:33,260 - Ingreso a contratopersonas
+2025-10-01 17:13:43,519 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:13:43,520 - Se consulta el documento: 1007437551
+2025-10-01 17:14:04,142 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:14:14,458 - Se abre Bnet
+2025-10-01 17:14:20,688 - Ingreso a contratopersonas
+2025-10-01 17:14:30,991 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-01 17:14:30,992 - Se consulta el documento: 1121931106
