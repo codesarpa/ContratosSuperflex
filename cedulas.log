@@ -22991,3 +22991,58 @@ receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild
 2025-10-03 17:44:29,667 - Se escribe en el campo 
 2025-10-03 17:44:33,701 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1ce4aa75-bdcc-4703-a8e9-b7667e2d84d7", element="c2658d98-20a9-48cd-8e8c-2bcae9e963ea")>
 2025-10-03 17:44:39,045 - Cargando... esperando que termine el proceso.
+2025-10-03 17:46:50,857 - Captura Pantalla: ./fotosPDV/30081386.png
+2025-10-03 17:46:59,330 - Envió imagen al Telegram
+2025-10-03 17:47:15,753 - Se abre Bnet
+2025-10-03 17:47:23,716 - Ingreso a contratopersonas
+2025-10-03 17:47:23,790 - Se encuentra el campo dcto. principal
+2025-10-03 17:47:23,791 - La pagina se carga correctamente
+2025-10-03 17:47:26,796 - Se consulta el documento: 1122138895
+2025-10-03 17:47:28,428 - El campo nombre es:ANGIE KATERINE, de la cedula: 1122138895
+2025-10-03 17:47:28,761 - Se encontro el enlace: Personal ventas
+2025-10-03 17:47:34,054 - Se encuentra el campo Grupo de Planes
+2025-10-03 17:47:36,080 - Se escribe en el campo 
+2025-10-03 17:47:40,115 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1ce4aa75-bdcc-4703-a8e9-b7667e2d84d7", element="1ebd4501-cc83-4903-9026-10cbe0d9de92")>
+2025-10-03 17:47:45,466 - Cargando... esperando que termine el proceso.
+2025-10-03 17:49:59,824 - Captura Pantalla: ./fotosPDV/1122138895.png
+2025-10-03 17:50:07,665 - Envió imagen al Telegram
+2025-10-03 17:50:13,745 - Mensaje_exito: None.
+2025-10-03 17:50:13,862 - Se abre Bnet
+2025-10-03 17:50:23,451 - Ingreso a contratopersonas
+2025-10-03 17:50:23,494 - Se encuentra el campo dcto. principal
+2025-10-03 17:50:23,494 - La pagina se carga correctamente
+2025-10-03 17:50:26,512 - Se consulta el documento: 21940107
+2025-10-03 17:50:27,734 - El campo nombre es:YOMAIRA, de la cedula: 21940107
+2025-10-03 17:50:28,252 - Se encontro el enlace: Personal ventas
+2025-10-03 17:50:33,542 - Se encuentra el campo Grupo de Planes
+2025-10-03 17:50:35,583 - Se escribe en el campo 
+2025-10-03 17:50:39,620 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1ce4aa75-bdcc-4703-a8e9-b7667e2d84d7", element="7774fd73-c4b4-4f9c-a0b0-58b3326c2ee6")>
+2025-10-03 17:50:44,949 - Cargando... esperando que termine el proceso.
+2025-10-03 17:53:00,907 - Captura Pantalla: ./fotosPDV/21940107.png
+2025-10-03 17:53:07,835 - Envió imagen al Telegram
+2025-10-03 17:53:24,228 - Se abre Bnet
+2025-10-03 17:53:32,656 - Ingreso a contratopersonas
+2025-10-03 17:53:32,676 - Se encuentra el campo dcto. principal
+2025-10-03 17:53:32,676 - La pagina se carga correctamente
+2025-10-03 17:53:35,678 - Se consulta el documento: 40187078
+2025-10-03 17:53:36,870 - El campo nombre es:DEISY YORMARY, de la cedula: 40187078
+2025-10-03 17:53:37,201 - Se encontro el enlace: Personal ventas
+2025-10-03 17:53:42,452 - Se encuentra el campo Grupo de Planes
+2025-10-03 17:53:44,481 - Se escribe en el campo 
+2025-10-03 17:53:48,506 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1ce4aa75-bdcc-4703-a8e9-b7667e2d84d7", element="a1f5fb97-3b50-4846-8b78-c6f5e17cd17d")>
+2025-10-03 17:53:53,822 - Cargando... esperando que termine el proceso.
+2025-10-03 17:56:09,641 - Captura Pantalla: ./fotosPDV/40187078.png
+2025-10-03 17:56:16,881 - Envió imagen al Telegram
+2025-10-03 17:56:22,952 - Mensaje_exito: None.
+2025-10-03 17:56:23,045 - Se abre Bnet
+2025-10-03 17:56:32,717 - Ingreso a contratopersonas
+2025-10-03 17:56:33,176 - Se encuentra el campo dcto. principal
+2025-10-03 17:56:33,176 - La pagina se carga correctamente
+2025-10-03 17:56:36,183 - Se consulta el documento: 40433512
+2025-10-03 17:56:37,350 - El campo nombre es:GILMA ASTRITH, de la cedula: 40433512
+2025-10-03 17:56:38,710 - Se encontro el enlace: Personal ventas
+2025-10-03 17:56:43,985 - Se encuentra el campo Grupo de Planes
+2025-10-03 17:56:46,013 - Se escribe en el campo 
+2025-10-03 17:56:50,044 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="1ce4aa75-bdcc-4703-a8e9-b7667e2d84d7", element="d3f5f03f-05ab-4bd7-be93-0048ad27a88c")>
+2025-10-03 17:56:55,389 - Cargando... esperando que termine el proceso.
+2025-10-03 17:59:08,308 - Captura Pantalla: ./fotosPDV/40433512.png
