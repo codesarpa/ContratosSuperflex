@@ -381,12 +381,61 @@ def consultar_usuario_cambiar_estado(cedula):
     #primero click en la ruedita
     # driver.get("http://10.167.32.73:8130/BusinessNET-WEB/XHTML/azar/logisticaventas/administracionusuarios.xhtml")
 
-login()
-consultar_usuario = ingresar_menu_resetear_usuarios()
+logging.info("")
+logging.info(F"INICIO EJECUCION DE CERRAR SESION {hora_inicio}")
+nombre_archivo = 'cedulas.xlsx'
+ruta_archivo = f'C:\ContratosSuperflex\{nombre_archivo}'
+logging.info(F"Nombre del archivo seleccionado: {nombre_archivo}")
+libro = openpyxl.load_workbook(ruta_archivo)
+hoja = libro.active
+relleno_verde = PatternFill(start_color="00FF00", end_color="00FF00", fill_type="solid")
+relleno_rojo = PatternFill(start_color="FF0000", end_color="FF0000", fill_type="solid")
 
-if consultar_usuario:
-    consultar_usuario_cambiar_estado('21229026')
-    IrPaginaContratos()
-    ConsultarDocumento('21229026')
-    GrupoPlanes()
-    GuardarContrato('21229026')
+driver = login()
+if driver:
+    for fila in hoja.iter_rows(min_row=2, max_row=hoja.max_row, min_col=1, max_col=1):
+        logging.info("Se inicia iteracion")
+        print("Se inicia iteracion")
+        for celda in fila:
+            logging.info("Procesando celda")
+            print("Procesando celda")
+            if celda.value:
+                hay_cedulas = True
+                print(celda.value)
+                valor_celda = str(celda.value)
+                logging.info(f"Se inicia el proceso con la Cedula: {valor_celda}")
+                log_cedulas("Se abre Bnet")
+                time.sleep(1)
+                consultar_usuario = ingresar_menu_resetear_usuarios()
+                if consultar_usuario:
+                    consultar_usuario_cambiar_estado(valor_celda)
+                    IrPaginaContratos()
+                    consulta_documento = ConsultarDocumento(valor_celda)
+                    if consulta_documento == False:
+                        logging.warning(f"Consulta fallida para cédula {valor_celda}. Continuando con la siguiente...")
+                        print(f"Consulta fallida para cédula {valor_celda}. Continuando con la siguiente...")
+                        continue
+                    GrupoPlanes()
+                    guardar_contrato = GuardarContrato(valor_celda)
+                    if guardar_contrato == True:
+                        celda.fill = relleno_verde
+                        logging.info(f"Se valida el proceso de la cedula: {valor_celda} EXITOSO")
+                    else:
+                        celda.fill = relleno_rojo
+                        logging.info(f"Se valida el proceso de la cedula: {valor_celda} FALLIDO")
+                        cedulas_fallidas = valor_celda
+
+                    libro.save(ruta_archivo)
+                    logging.info("Se guarda el archivo excel correctamente")
+                else:
+                    print("Fallo al resetear el estado, se continua con la siguiente cedula")
+                    logging.info("Fallo al resetear el estado, se continua con la siguiente cedula")
+                    continue
+
+    print("Finalizó el bucle de iteración sobre las cédulas.")
+    print(f"hay_cedulas: {hay_cedulas}")            
+    if not hay_cedulas:
+        logging.info("Ya no se encuentran cédulas en el archivo Excel")
+        logging.shutdown()
+        print("antes del exit")
+        exit()
