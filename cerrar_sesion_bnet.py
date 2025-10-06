@@ -384,7 +384,7 @@ def consultar_usuario_cambiar_estado(cedula):
 logging.info("")
 logging.info(F"INICIO EJECUCION DE CERRAR SESION {hora_inicio}")
 # nombre_archivo = 'cedulas.xlsx'
-nombre_archivo = 'cedulas_cerrar_sesion.xlsx'
+nombre_archivo = 'cedulas.xlsx'
 ruta_archivo = f'C:\ContratosSuperflex\{nombre_archivo}'
 logging.info(F"Nombre del archivo seleccionado: {nombre_archivo}")
 libro = openpyxl.load_workbook(ruta_archivo)
