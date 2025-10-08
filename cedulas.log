@@ -28441,3 +28441,1947 @@ receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild
 2025-10-07 04:00:17,954 - Captura Pantalla: ./fotosPDV/1002596538.png
 2025-10-07 04:00:25,006 - Envió imagen al Telegram
 2025-10-07 04:00:31,012 - Mensaje_exito: None.
+2025-10-07 22:30:03,595 - Registro de cedula: 123456789
+2025-10-07 22:30:30,641 - Se abre Bnet
+2025-10-07 22:30:40,233 - Ingreso a contratopersonas
+2025-10-07 22:30:40,249 - Se encuentra el campo dcto. principal
+2025-10-07 22:30:40,249 - La pagina se carga correctamente
+2025-10-07 22:30:43,256 - Se consulta el documento: 21205258
+2025-10-07 22:30:44,829 - El campo nombre es:ISABEL, de la cedula: 21205258
+2025-10-07 22:30:45,616 - Se encontro el enlace: Personal ventas
+2025-10-07 22:30:50,881 - Se encuentra el campo Grupo de Planes
+2025-10-07 22:30:52,904 - Se escribe en el campo 
+2025-10-07 22:30:56,931 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="5c7d56a4-952b-42ce-8edc-564ef71095de")>
+2025-10-07 22:31:02,252 - Cargando... esperando que termine el proceso.
+2025-10-07 22:33:17,792 - Captura Pantalla: ./fotosPDV/21205258.png
+2025-10-07 22:33:25,910 - Envió imagen al Telegram
+2025-10-07 22:33:42,089 - Se abre Bnet
+2025-10-07 22:33:50,141 - Ingreso a contratopersonas
+2025-10-07 22:33:50,141 - Se encuentra el campo dcto. principal
+2025-10-07 22:33:50,141 - La pagina se carga correctamente
+2025-10-07 22:33:53,149 - Se consulta el documento: 31006459
+2025-10-07 22:33:54,235 - El campo nombre es:GRACIELA, de la cedula: 31006459
+2025-10-07 22:33:54,551 - Se encontro el enlace: Personal ventas
+2025-10-07 22:33:59,814 - Se encuentra el campo Grupo de Planes
+2025-10-07 22:34:01,837 - Se escribe en el campo 
+2025-10-07 22:34:05,866 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="daf8f5b3-211a-434e-aa42-646163eb0dec")>
+2025-10-07 22:34:11,182 - Cargando... esperando que termine el proceso.
+2025-10-07 22:36:28,665 - Captura Pantalla: ./fotosPDV/31006459.png
+2025-10-07 22:36:35,775 - Envió imagen al Telegram
+2025-10-07 22:36:41,814 - Mensaje_exito: None.
+2025-10-07 22:36:41,829 - Se abre Bnet
+2025-10-07 22:36:49,992 - Ingreso a contratopersonas
+2025-10-07 22:36:50,007 - Se encuentra el campo dcto. principal
+2025-10-07 22:36:50,007 - La pagina se carga correctamente
+2025-10-07 22:36:53,020 - Se consulta el documento: 11373533
+2025-10-07 22:36:54,062 - El campo nombre es:PABLO JOSE, de la cedula: 11373533
+2025-10-07 22:36:54,379 - Se encontro el enlace: Personal ventas
+2025-10-07 22:36:59,629 - Se encuentra el campo Grupo de Planes
+2025-10-07 22:37:01,653 - Se escribe en el campo 
+2025-10-07 22:37:05,692 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="6ce8c4c8-9e38-4901-8d40-dc0bc71d1a85")>
+2025-10-07 22:37:11,014 - Cargando... esperando que termine el proceso.
+2025-10-07 22:39:26,558 - Captura Pantalla: ./fotosPDV/11373533.png
+2025-10-07 22:39:33,769 - Envió imagen al Telegram
+2025-10-07 22:39:49,870 - Se abre Bnet
+2025-10-07 22:39:58,373 - Ingreso a contratopersonas
+2025-10-07 22:39:58,373 - Se encuentra el campo dcto. principal
+2025-10-07 22:39:58,373 - La pagina se carga correctamente
+2025-10-07 22:40:01,402 - Se consulta el documento: 30030456
+2025-10-07 22:40:02,939 - El campo nombre es:BLANCA LILIA, de la cedula: 30030456
+2025-10-07 22:40:03,256 - Se encontro el enlace: Personal ventas
+2025-10-07 22:40:08,509 - Se encuentra el campo Grupo de Planes
+2025-10-07 22:40:10,540 - Se escribe en el campo 
+2025-10-07 22:40:14,569 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="ecdf171a-6506-4507-923c-b19538ca43bb")>
+2025-10-07 22:40:19,886 - Cargando... esperando que termine el proceso.
+2025-10-07 22:42:35,434 - Captura Pantalla: ./fotosPDV/30030456.png
+2025-10-07 22:42:42,486 - Envió imagen al Telegram
+2025-10-07 22:42:58,583 - Se abre Bnet
+2025-10-07 22:43:06,897 - Ingreso a contratopersonas
+2025-10-07 22:43:06,897 - Se encuentra el campo dcto. principal
+2025-10-07 22:43:06,897 - La pagina se carga correctamente
+2025-10-07 22:43:09,910 - Se consulta el documento: 70052315
+2025-10-07 22:43:11,461 - El campo nombre es:LIBARDO DE JESUS, de la cedula: 70052315
+2025-10-07 22:43:11,777 - Se encontro el enlace: Personal ventas
+2025-10-07 22:43:17,034 - Se encuentra el campo Grupo de Planes
+2025-10-07 22:43:19,056 - Se escribe en el campo 
+2025-10-07 22:43:23,069 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="411d53bc-986c-493d-85d3-fbe4099493ad")>
+2025-10-07 22:43:28,389 - Cargando... esperando que termine el proceso.
+2025-10-07 22:45:43,881 - Captura Pantalla: ./fotosPDV/70052315.png
+2025-10-07 22:45:51,337 - Envió imagen al Telegram
+2025-10-07 22:46:07,397 - Se abre Bnet
+2025-10-07 22:46:15,210 - Ingreso a contratopersonas
+2025-10-07 22:46:15,225 - Se encuentra el campo dcto. principal
+2025-10-07 22:46:15,225 - La pagina se carga correctamente
+2025-10-07 22:46:18,236 - Se consulta el documento: 40449322
+2025-10-07 22:46:19,286 - El campo nombre es:ENEIDA, de la cedula: 40449322
+2025-10-07 22:46:19,603 - Se encontro el enlace: Personal ventas
+2025-10-07 22:46:24,869 - Se encuentra el campo Grupo de Planes
+2025-10-07 22:46:26,892 - Se escribe en el campo 
+2025-10-07 22:46:30,924 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="bc731783-70a8-429c-9e6e-1cef1844d32c")>
+2025-10-07 22:46:36,246 - Cargando... esperando que termine el proceso.
+2025-10-07 22:48:49,724 - Captura Pantalla: ./fotosPDV/40449322.png
+2025-10-07 22:48:56,670 - Envió imagen al Telegram
+2025-10-07 22:49:02,696 - Mensaje_exito: None.
+2025-10-07 22:49:02,712 - Se abre Bnet
+2025-10-07 22:49:10,843 - Ingreso a contratopersonas
+2025-10-07 22:49:10,843 - Se encuentra el campo dcto. principal
+2025-10-07 22:49:10,859 - La pagina se carga correctamente
+2025-10-07 22:49:13,873 - Se consulta el documento: 40329872
+2025-10-07 22:49:14,946 - El campo nombre es:JENNY JURLEY, de la cedula: 40329872
+2025-10-07 22:49:15,262 - Se encontro el enlace: Personal ventas
+2025-10-07 22:49:20,514 - Se encuentra el campo Grupo de Planes
+2025-10-07 22:49:22,543 - Se escribe en el campo 
+2025-10-07 22:49:26,571 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="799c5095-74ea-4311-84a5-94b2c2de4413")>
+2025-10-07 22:49:31,904 - Cargando... esperando que termine el proceso.
+2025-10-07 22:51:45,439 - Captura Pantalla: ./fotosPDV/40329872.png
+2025-10-07 22:51:52,279 - Envió imagen al Telegram
+2025-10-07 22:51:58,310 - Mensaje_exito: None.
+2025-10-07 22:51:58,325 - Se abre Bnet
+2025-10-07 22:52:06,642 - Ingreso a contratopersonas
+2025-10-07 22:52:06,642 - Se encuentra el campo dcto. principal
+2025-10-07 22:52:06,642 - La pagina se carga correctamente
+2025-10-07 22:52:09,655 - Se consulta el documento: 40219846
+2025-10-07 22:52:11,707 - El campo nombre es:FRANCY YOHANNA, de la cedula: 40219846
+2025-10-07 22:52:12,024 - Se encontro el enlace: Personal ventas
+2025-10-07 22:52:17,283 - Se encuentra el campo Grupo de Planes
+2025-10-07 22:52:19,308 - Se escribe en el campo 
+2025-10-07 22:52:23,342 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="370e2acf-64e8-452a-91e5-52b9eed44875")>
+2025-10-07 22:52:28,663 - Cargando... esperando que termine el proceso.
+2025-10-07 22:54:44,253 - Captura Pantalla: ./fotosPDV/40219846.png
+2025-10-07 22:54:51,287 - Envió imagen al Telegram
+2025-10-07 22:54:57,325 - Mensaje_exito: None.
+2025-10-07 22:54:57,356 - Se abre Bnet
+2025-10-07 22:55:05,731 - Ingreso a contratopersonas
+2025-10-07 22:55:05,738 - Se encuentra el campo dcto. principal
+2025-10-07 22:55:05,738 - La pagina se carga correctamente
+2025-10-07 22:55:08,743 - Se consulta el documento: 1122338100
+2025-10-07 22:55:09,785 - El campo nombre es:DIANA ALEJANDRA, de la cedula: 1122338100
+2025-10-07 22:55:10,102 - Se encontro el enlace: Personal ventas
+2025-10-07 22:55:15,355 - Se encuentra el campo Grupo de Planes
+2025-10-07 22:55:17,370 - Se escribe en el campo 
+2025-10-07 22:55:21,419 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="4ecd5268-f087-4a3f-bdc1-8ccf7de9d08a")>
+2025-10-07 22:55:26,743 - Cargando... esperando que termine el proceso.
+2025-10-07 22:57:42,200 - Captura Pantalla: ./fotosPDV/1122338100.png
+2025-10-07 22:57:50,132 - Envió imagen al Telegram
+2025-10-07 22:57:56,156 - Mensaje_exito: None.
+2025-10-07 22:57:56,172 - Se abre Bnet
+2025-10-07 22:58:04,072 - Ingreso a contratopersonas
+2025-10-07 22:58:04,087 - Se encuentra el campo dcto. principal
+2025-10-07 22:58:04,087 - La pagina se carga correctamente
+2025-10-07 22:58:07,097 - Se consulta el documento: 17303753
+2025-10-07 22:58:08,144 - El campo nombre es:JOSE VITELMO, de la cedula: 17303753
+2025-10-07 22:58:08,461 - Se encontro el enlace: Personal ventas
+2025-10-07 22:58:13,734 - Se encuentra el campo Grupo de Planes
+2025-10-07 22:58:15,758 - Se escribe en el campo 
+2025-10-07 22:58:19,803 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="d5cdbf1f-fc77-42cc-9e85-f52b918695dc")>
+2025-10-07 22:58:25,088 - Cargando... esperando que termine el proceso.
+2025-10-07 23:00:40,587 - Captura Pantalla: ./fotosPDV/17303753.png
+2025-10-07 23:00:47,737 - Envió imagen al Telegram
+2025-10-07 23:01:03,843 - Se abre Bnet
+2025-10-07 23:01:11,909 - Ingreso a contratopersonas
+2025-10-07 23:01:11,915 - Se encuentra el campo dcto. principal
+2025-10-07 23:01:11,915 - La pagina se carga correctamente
+2025-10-07 23:01:14,919 - Se consulta el documento: 17345135
+2025-10-07 23:01:15,960 - El campo nombre es:FERNEY, de la cedula: 17345135
+2025-10-07 23:01:16,261 - Se encontro el enlace: Personal ventas
+2025-10-07 23:01:21,547 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:01:23,578 - Se escribe en el campo 
+2025-10-07 23:01:27,609 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="adca52cd-d616-46fb-a3f2-9012779eb921")>
+2025-10-07 23:01:32,928 - Cargando... esperando que termine el proceso.
+2025-10-07 23:03:46,415 - Captura Pantalla: ./fotosPDV/17345135.png
+2025-10-07 23:03:53,426 - Envió imagen al Telegram
+2025-10-07 23:04:09,494 - Se abre Bnet
+2025-10-07 23:04:17,827 - Ingreso a contratopersonas
+2025-10-07 23:04:17,827 - Se encuentra el campo dcto. principal
+2025-10-07 23:04:17,827 - La pagina se carga correctamente
+2025-10-07 23:04:20,839 - Se consulta el documento: 33875522
+2025-10-07 23:04:22,383 - El campo nombre es:YENNY LORENA, de la cedula: 33875522
+2025-10-07 23:04:22,700 - Se encontro el enlace: Personal ventas
+2025-10-07 23:04:27,951 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:04:29,976 - Se escribe en el campo 
+2025-10-07 23:04:34,011 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="09b85756-318c-4c8c-ab0e-00c1b834c4ca")>
+2025-10-07 23:04:39,331 - Cargando... esperando que termine el proceso.
+2025-10-07 23:06:54,883 - Captura Pantalla: ./fotosPDV/33875522.png
+2025-10-07 23:07:01,875 - Envió imagen al Telegram
+2025-10-07 23:07:07,901 - Mensaje_exito: None.
+2025-10-07 23:07:07,917 - Se abre Bnet
+2025-10-07 23:07:16,233 - Ingreso a contratopersonas
+2025-10-07 23:07:16,233 - Se encuentra el campo dcto. principal
+2025-10-07 23:07:16,248 - La pagina se carga correctamente
+2025-10-07 23:07:19,260 - Se consulta el documento: 36293795
+2025-10-07 23:07:20,817 - El campo nombre es:ANAICI, de la cedula: 36293795
+2025-10-07 23:07:21,133 - Se encontro el enlace: Personal ventas
+2025-10-07 23:07:26,431 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:07:28,460 - Se escribe en el campo 
+2025-10-07 23:07:32,480 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="72255366-91c6-40b7-bfa4-d009c91739b2")>
+2025-10-07 23:07:37,791 - Cargando... esperando que termine el proceso.
+2025-10-07 23:09:51,276 - Captura Pantalla: ./fotosPDV/36293795.png
+2025-10-07 23:09:59,533 - Envió imagen al Telegram
+2025-10-07 23:10:05,573 - Mensaje_exito: None.
+2025-10-07 23:10:05,604 - Se abre Bnet
+2025-10-07 23:10:14,022 - Ingreso a contratopersonas
+2025-10-07 23:10:14,022 - Se encuentra el campo dcto. principal
+2025-10-07 23:10:14,022 - La pagina se carga correctamente
+2025-10-07 23:10:17,036 - Se consulta el documento: 20871642
+2025-10-07 23:10:18,071 - El campo nombre es:ELSY JANETH, de la cedula: 20871642
+2025-10-07 23:10:18,387 - Se encontro el enlace: Personal ventas
+2025-10-07 23:10:23,685 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:10:25,702 - Se escribe en el campo 
+2025-10-07 23:10:29,733 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="c48ffa46-6bb7-472d-bf5e-705af6d7fd3c")>
+2025-10-07 23:10:35,054 - Cargando... esperando que termine el proceso.
+2025-10-07 23:12:50,567 - Captura Pantalla: ./fotosPDV/20871642.png
+2025-10-07 23:12:58,581 - Envió imagen al Telegram
+2025-10-07 23:13:04,593 - Mensaje_exito: None.
+2025-10-07 23:13:04,615 - Se abre Bnet
+2025-10-07 23:13:12,824 - Ingreso a contratopersonas
+2025-10-07 23:13:12,824 - Se encuentra el campo dcto. principal
+2025-10-07 23:13:12,824 - La pagina se carga correctamente
+2025-10-07 23:13:15,852 - Se consulta el documento: 40186554
+2025-10-07 23:13:17,982 - El campo nombre es:MARIA VALENTINA, de la cedula: 40186554
+2025-10-07 23:13:18,299 - Se encontro el enlace: Personal ventas
+2025-10-07 23:13:23,579 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:13:25,610 - Se escribe en el campo 
+2025-10-07 23:13:29,641 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="066fb215-0730-4a14-a239-0efa0238b2b6")>
+2025-10-07 23:13:34,962 - Cargando... esperando que termine el proceso.
+2025-10-07 23:15:50,460 - Captura Pantalla: ./fotosPDV/40186554.png
+2025-10-07 23:15:57,481 - Envió imagen al Telegram
+2025-10-07 23:16:03,491 - Mensaje_exito: None.
+2025-10-07 23:16:03,529 - Se abre Bnet
+2025-10-07 23:16:11,745 - Ingreso a contratopersonas
+2025-10-07 23:16:11,745 - Se encuentra el campo dcto. principal
+2025-10-07 23:16:11,745 - La pagina se carga correctamente
+2025-10-07 23:16:14,755 - Se consulta el documento: 52287828
+2025-10-07 23:16:16,388 - El campo nombre es:ROSA DELIA, de la cedula: 52287828
+2025-10-07 23:16:16,711 - Se encontro el enlace: Personal ventas
+2025-10-07 23:16:21,979 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:16:24,005 - Se escribe en el campo 
+2025-10-07 23:16:28,038 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="4ef3b05e-d884-48bb-a448-99a3768e7f1a")>
+2025-10-07 23:16:33,341 - Cargando... esperando que termine el proceso.
+2025-10-07 23:18:46,869 - Captura Pantalla: ./fotosPDV/52287828.png
+2025-10-07 23:18:53,881 - Envió imagen al Telegram
+2025-10-07 23:18:59,923 - Mensaje_exito: None.
+2025-10-07 23:18:59,938 - Se abre Bnet
+2025-10-07 23:19:08,268 - Ingreso a contratopersonas
+2025-10-07 23:19:08,268 - Se encuentra el campo dcto. principal
+2025-10-07 23:19:08,268 - La pagina se carga correctamente
+2025-10-07 23:19:11,277 - Se consulta el documento: 40333471
+2025-10-07 23:19:12,313 - El campo nombre es:MARIA FRANCI, de la cedula: 40333471
+2025-10-07 23:19:12,630 - Se encontro el enlace: Personal ventas
+2025-10-07 23:19:17,902 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:19:19,924 - Se escribe en el campo 
+2025-10-07 23:19:23,972 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="2be0a973-7130-4ef4-bcc2-415f100c4597")>
+2025-10-07 23:19:29,294 - Cargando... esperando que termine el proceso.
+2025-10-07 23:21:42,820 - Captura Pantalla: ./fotosPDV/40333471.png
+2025-10-07 23:21:50,536 - Envió imagen al Telegram
+2025-10-07 23:21:56,541 - Mensaje_exito: None.
+2025-10-07 23:21:56,572 - Se abre Bnet
+2025-10-07 23:22:04,556 - Ingreso a contratopersonas
+2025-10-07 23:22:04,556 - Se encuentra el campo dcto. principal
+2025-10-07 23:22:04,556 - La pagina se carga correctamente
+2025-10-07 23:22:07,568 - Se consulta el documento: 50976844
+2025-10-07 23:22:08,602 - El campo nombre es:EIDA LUDIS, de la cedula: 50976844
+2025-10-07 23:22:08,934 - Se encontro el enlace: Personal ventas
+2025-10-07 23:22:14,206 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:22:16,226 - Se escribe en el campo 
+2025-10-07 23:22:20,255 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="9a6f9891-6e29-4a2b-add5-cc11e0174118")>
+2025-10-07 23:22:25,562 - Cargando... esperando que termine el proceso.
+2025-10-07 23:24:39,062 - Captura Pantalla: ./fotosPDV/50976844.png
+2025-10-07 23:24:46,078 - Envió imagen al Telegram
+2025-10-07 23:24:52,113 - Mensaje_exito: None.
+2025-10-07 23:24:52,119 - Se abre Bnet
+2025-10-07 23:25:00,474 - Ingreso a contratopersonas
+2025-10-07 23:25:00,489 - Se encuentra el campo dcto. principal
+2025-10-07 23:25:00,489 - La pagina se carga correctamente
+2025-10-07 23:25:03,499 - Se consulta el documento: 40329979
+2025-10-07 23:25:05,057 - El campo nombre es:SANDRA MILENA, de la cedula: 40329979
+2025-10-07 23:25:05,358 - Se encontro el enlace: Personal ventas
+2025-10-07 23:25:10,638 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:25:12,661 - Se escribe en el campo 
+2025-10-07 23:25:16,689 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="85856db6-ace6-4e41-b6df-8f31b0929d3a")>
+2025-10-07 23:25:22,009 - Cargando... esperando que termine el proceso.
+2025-10-07 23:27:35,592 - Captura Pantalla: ./fotosPDV/40329979.png
+2025-10-07 23:27:42,520 - Envió imagen al Telegram
+2025-10-07 23:27:48,538 - Mensaje_exito: None.
+2025-10-07 23:27:48,600 - Se abre Bnet
+2025-10-07 23:27:56,970 - Ingreso a contratopersonas
+2025-10-07 23:27:56,970 - Se encuentra el campo dcto. principal
+2025-10-07 23:27:56,970 - La pagina se carga correctamente
+2025-10-07 23:27:59,981 - Se consulta el documento: 35263486
+2025-10-07 23:28:01,515 - El campo nombre es:CAROLINA DEL, de la cedula: 35263486
+2025-10-07 23:28:01,847 - Se encontro el enlace: Personal ventas
+2025-10-07 23:28:07,122 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:28:09,144 - Se escribe en el campo 
+2025-10-07 23:28:13,189 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="814083f4-67cb-4129-9b90-7a0bcd6f5a0c")>
+2025-10-07 23:28:18,489 - Cargando... esperando que termine el proceso.
+2025-10-07 23:30:31,999 - Captura Pantalla: ./fotosPDV/35263486.png
+2025-10-07 23:30:38,794 - Envió imagen al Telegram
+2025-10-07 23:30:44,834 - Mensaje_exito: None.
+2025-10-07 23:30:44,849 - Se abre Bnet
+2025-10-07 23:30:52,944 - Ingreso a contratopersonas
+2025-10-07 23:30:52,944 - Se encuentra el campo dcto. principal
+2025-10-07 23:30:52,944 - La pagina se carga correctamente
+2025-10-07 23:30:55,957 - Se consulta el documento: 40415999
+2025-10-07 23:30:57,024 - El campo nombre es:ALBA, de la cedula: 40415999
+2025-10-07 23:30:57,325 - Se encontro el enlace: Personal ventas
+2025-10-07 23:31:02,597 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:31:04,622 - Se escribe en el campo 
+2025-10-07 23:31:08,652 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="8c082a19-855b-4a88-9aa9-bccb0919183a")>
+2025-10-07 23:31:13,959 - Cargando... esperando que termine el proceso.
+2025-10-07 23:33:27,480 - Captura Pantalla: ./fotosPDV/40415999.png
+2025-10-07 23:33:35,098 - Envió imagen al Telegram
+2025-10-07 23:33:51,164 - Se abre Bnet
+2025-10-07 23:33:59,111 - Ingreso a contratopersonas
+2025-10-07 23:33:59,111 - Se encuentra el campo dcto. principal
+2025-10-07 23:33:59,111 - La pagina se carga correctamente
+2025-10-07 23:34:02,116 - Se consulta el documento: 11405158
+2025-10-07 23:34:03,173 - El campo nombre es:LUIS ALFREDO, de la cedula: 11405158
+2025-10-07 23:34:03,474 - Se encontro el enlace: Personal ventas
+2025-10-07 23:34:08,762 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:34:10,785 - Se escribe en el campo 
+2025-10-07 23:34:14,812 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="f8e3653e-0b9a-4360-8b99-ac6cabe94713")>
+2025-10-07 23:34:20,133 - Cargando... esperando que termine el proceso.
+2025-10-07 23:36:35,685 - Captura Pantalla: ./fotosPDV/11405158.png
+2025-10-07 23:36:42,598 - Envió imagen al Telegram
+2025-10-07 23:36:58,710 - Se abre Bnet
+2025-10-07 23:37:06,639 - Ingreso a contratopersonas
+2025-10-07 23:37:06,639 - Se encuentra el campo dcto. principal
+2025-10-07 23:37:06,639 - La pagina se carga correctamente
+2025-10-07 23:37:09,647 - Se consulta el documento: 40384750
+2025-10-07 23:37:11,191 - El campo nombre es:MARIA MARLENY, de la cedula: 40384750
+2025-10-07 23:37:11,508 - Se encontro el enlace: Personal ventas
+2025-10-07 23:37:16,756 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:37:18,786 - Se escribe en el campo 
+2025-10-07 23:37:22,819 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="cdcd30d2-c4f5-4e88-9413-6b3c62353d34")>
+2025-10-07 23:37:28,145 - Cargando... esperando que termine el proceso.
+2025-10-07 23:39:43,633 - Captura Pantalla: ./fotosPDV/40384750.png
+2025-10-07 23:39:51,362 - Envió imagen al Telegram
+2025-10-07 23:40:07,474 - Se abre Bnet
+2025-10-07 23:40:15,152 - Ingreso a contratopersonas
+2025-10-07 23:40:15,168 - Se encuentra el campo dcto. principal
+2025-10-07 23:40:15,168 - La pagina se carga correctamente
+2025-10-07 23:40:18,181 - Se consulta el documento: 26508842
+2025-10-07 23:40:19,216 - El campo nombre es:MARIA INES, de la cedula: 26508842
+2025-10-07 23:40:19,532 - Se encontro el enlace: Personal ventas
+2025-10-07 23:40:24,805 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:40:26,830 - Se escribe en el campo 
+2025-10-07 23:40:30,860 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="eee3b763-e9e9-4923-91c0-e180312e99a2")>
+2025-10-07 23:40:36,183 - Cargando... esperando que termine el proceso.
+2025-10-07 23:42:49,712 - Captura Pantalla: ./fotosPDV/26508842.png
+2025-10-07 23:42:56,723 - Envió imagen al Telegram
+2025-10-07 23:43:12,800 - Se abre Bnet
+2025-10-07 23:43:20,731 - Ingreso a contratopersonas
+2025-10-07 23:43:20,731 - Se encuentra el campo dcto. principal
+2025-10-07 23:43:20,731 - La pagina se carga correctamente
+2025-10-07 23:43:23,741 - Se consulta el documento: 1121920935
+2025-10-07 23:43:24,792 - El campo nombre es:YERALDIN , de la cedula: 1121920935
+2025-10-07 23:43:25,093 - Se encontro el enlace: Personal ventas
+2025-10-07 23:43:30,382 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:43:32,419 - Se escribe en el campo 
+2025-10-07 23:43:36,483 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="ea5afbfd-c24c-4eac-bbe9-d0de6e221878")>
+2025-10-07 23:43:41,789 - Cargando... esperando que termine el proceso.
+2025-10-07 23:45:57,338 - Captura Pantalla: ./fotosPDV/1121920935.png
+2025-10-07 23:46:05,468 - Envió imagen al Telegram
+2025-10-07 23:46:11,492 - Mensaje_exito: None.
+2025-10-07 23:46:11,507 - Se abre Bnet
+2025-10-07 23:46:19,550 - Ingreso a contratopersonas
+2025-10-07 23:46:19,550 - Se encuentra el campo dcto. principal
+2025-10-07 23:46:19,550 - La pagina se carga correctamente
+2025-10-07 23:46:22,554 - Se consulta el documento: 30081591
+2025-10-07 23:46:24,079 - El campo nombre es:ROCIO, de la cedula: 30081591
+2025-10-07 23:46:24,396 - Se encontro el enlace: Personal ventas
+2025-10-07 23:46:29,672 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:46:31,703 - Se escribe en el campo 
+2025-10-07 23:46:35,717 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="534fb89e-1c8e-423a-8237-da556331108b")>
+2025-10-07 23:46:41,031 - Cargando... esperando que termine el proceso.
+2025-10-07 23:48:56,556 - Captura Pantalla: ./fotosPDV/30081591.png
+2025-10-07 23:49:03,703 - Envió imagen al Telegram
+2025-10-07 23:49:09,706 - Mensaje_exito: None.
+2025-10-07 23:49:09,737 - Se abre Bnet
+2025-10-07 23:49:17,600 - Ingreso a contratopersonas
+2025-10-07 23:49:17,607 - Se encuentra el campo dcto. principal
+2025-10-07 23:49:17,607 - La pagina se carga correctamente
+2025-10-07 23:49:20,610 - Se consulta el documento: 40371629
+2025-10-07 23:49:21,667 - El campo nombre es:CARMEN JULIA, de la cedula: 40371629
+2025-10-07 23:49:21,968 - Se encontro el enlace: Personal ventas
+2025-10-07 23:49:27,235 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:49:29,264 - Se escribe en el campo 
+2025-10-07 23:49:33,294 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="e2f12f2f-f950-4d4f-b5b5-6849b9a00918")>
+2025-10-07 23:49:38,615 - Cargando... esperando que termine el proceso.
+2025-10-07 23:51:54,159 - Captura Pantalla: ./fotosPDV/40371629.png
+2025-10-07 23:52:01,137 - Envió imagen al Telegram
+2025-10-07 23:52:07,152 - Mensaje_exito: None.
+2025-10-07 23:52:07,183 - Se abre Bnet
+2025-10-07 23:52:14,624 - Ingreso a contratopersonas
+2025-10-07 23:52:14,624 - Se encuentra el campo dcto. principal
+2025-10-07 23:52:14,624 - La pagina se carga correctamente
+2025-10-07 23:52:17,636 - Se consulta el documento: 1121840691
+2025-10-07 23:52:18,694 - El campo nombre es:BLANCA MILENA, de la cedula: 1121840691
+2025-10-07 23:52:19,011 - Se encontro el enlace: Personal ventas
+2025-10-07 23:52:24,293 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:52:26,323 - Se escribe en el campo 
+2025-10-07 23:52:30,355 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="5c62da4c-5b1c-49ef-b7dc-0ac73b43fab1")>
+2025-10-07 23:52:35,677 - Cargando... esperando que termine el proceso.
+2025-10-07 23:54:49,210 - Captura Pantalla: ./fotosPDV/1121840691.png
+2025-10-07 23:54:56,370 - Envió imagen al Telegram
+2025-10-07 23:55:02,406 - Mensaje_exito: None.
+2025-10-07 23:55:02,422 - Se abre Bnet
+2025-10-07 23:55:10,234 - Ingreso a contratopersonas
+2025-10-07 23:55:10,249 - Se encuentra el campo dcto. principal
+2025-10-07 23:55:10,249 - La pagina se carga correctamente
+2025-10-07 23:55:13,255 - Se consulta el documento: 41213156
+2025-10-07 23:55:14,812 - El campo nombre es:LUCERO, de la cedula: 41213156
+2025-10-07 23:55:15,113 - Se encontro el enlace: Personal ventas
+2025-10-07 23:55:20,392 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:55:22,423 - Se escribe en el campo 
+2025-10-07 23:55:26,455 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="051aa68c-74e7-4350-ac43-76042de5d1fc")>
+2025-10-07 23:55:31,781 - Cargando... esperando que termine el proceso.
+2025-10-07 23:57:45,283 - Captura Pantalla: ./fotosPDV/41213156.png
+2025-10-07 23:57:53,062 - Envió imagen al Telegram
+2025-10-07 23:57:59,083 - Mensaje_exito: None.
+2025-10-07 23:57:59,098 - Se abre Bnet
+2025-10-07 23:58:07,130 - Ingreso a contratopersonas
+2025-10-07 23:58:07,130 - Se encuentra el campo dcto. principal
+2025-10-07 23:58:07,130 - La pagina se carga correctamente
+2025-10-07 23:58:10,142 - Se consulta el documento: 30080583
+2025-10-07 23:58:12,203 - El campo nombre es:MONICA ANDREA, de la cedula: 30080583
+2025-10-07 23:58:12,520 - Se encontro el enlace: Personal ventas
+2025-10-07 23:58:17,787 - Se encuentra el campo Grupo de Planes
+2025-10-07 23:58:19,818 - Se escribe en el campo 
+2025-10-07 23:58:23,851 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="ae49cd8d-c3ea-405f-bc11-af60a156abea")>
+2025-10-07 23:58:29,172 - Cargando... esperando que termine el proceso.
+2025-10-08 00:00:42,737 - Captura Pantalla: ./fotosPDV/30080583.png
+2025-10-08 00:00:49,884 - Envió imagen al Telegram
+2025-10-08 00:01:05,995 - Se abre Bnet
+2025-10-08 00:01:14,120 - Ingreso a contratopersonas
+2025-10-08 00:01:14,120 - Se encuentra el campo dcto. principal
+2025-10-08 00:01:14,120 - La pagina se carga correctamente
+2025-10-08 00:01:17,131 - Se consulta el documento: 52812191
+2025-10-08 00:01:18,203 - El campo nombre es:ALBA LUZ, de la cedula: 52812191
+2025-10-08 00:01:18,504 - Se encontro el enlace: Personal ventas
+2025-10-08 00:01:23,784 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:01:25,813 - Se escribe en el campo 
+2025-10-08 00:01:29,843 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="bdc57684-e4f9-4894-8e8f-8b62afe47555")>
+2025-10-08 00:01:35,162 - Cargando... esperando que termine el proceso.
+2025-10-08 00:03:50,702 - Captura Pantalla: ./fotosPDV/52812191.png
+2025-10-08 00:03:57,726 - Envió imagen al Telegram
+2025-10-08 00:04:13,845 - Se abre Bnet
+2025-10-08 00:04:21,930 - Ingreso a contratopersonas
+2025-10-08 00:04:21,930 - Se encuentra el campo dcto. principal
+2025-10-08 00:04:21,930 - La pagina se carga correctamente
+2025-10-08 00:04:24,932 - Se consulta el documento: 17329021
+2025-10-08 00:04:26,485 - El campo nombre es:EUSEBIO, de la cedula: 17329021
+2025-10-08 00:04:26,801 - Se encontro el enlace: Personal ventas
+2025-10-08 00:04:32,076 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:04:34,100 - Se escribe en el campo 
+2025-10-08 00:04:38,131 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="4ae183bd-bbc9-4749-aa38-76837504be83")>
+2025-10-08 00:04:43,454 - Cargando... esperando que termine el proceso.
+2025-10-08 00:06:58,958 - Captura Pantalla: ./fotosPDV/17329021.png
+2025-10-08 00:07:05,999 - Envió imagen al Telegram
+2025-10-08 00:07:22,122 - Se abre Bnet
+2025-10-08 00:07:30,753 - Ingreso a contratopersonas
+2025-10-08 00:07:30,753 - Se encuentra el campo dcto. principal
+2025-10-08 00:07:30,753 - La pagina se carga correctamente
+2025-10-08 00:07:33,764 - Se consulta el documento: 39728361
+2025-10-08 00:07:34,820 - El campo nombre es:FLOR CECILIA, de la cedula: 39728361
+2025-10-08 00:07:35,136 - Se encontro el enlace: Personal ventas
+2025-10-08 00:07:40,418 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:07:42,448 - Se escribe en el campo 
+2025-10-08 00:07:46,497 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="5e9bed0c-5773-4733-82d2-df157e4b896f")>
+2025-10-08 00:07:51,804 - Cargando... esperando que termine el proceso.
+2025-10-08 00:10:07,329 - Captura Pantalla: ./fotosPDV/39728361.png
+2025-10-08 00:10:14,957 - Envió imagen al Telegram
+2025-10-08 00:10:31,036 - Se abre Bnet
+2025-10-08 00:10:39,917 - Ingreso a contratopersonas
+2025-10-08 00:10:39,923 - Se encuentra el campo dcto. principal
+2025-10-08 00:10:39,923 - La pagina se carga correctamente
+2025-10-08 00:10:42,927 - Se consulta el documento: 21011250
+2025-10-08 00:10:43,969 - El campo nombre es:BEATRIZ, de la cedula: 21011250
+2025-10-08 00:10:44,757 - Se encontro el enlace: Personal ventas
+2025-10-08 00:10:50,052 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:10:52,080 - Se escribe en el campo 
+2025-10-08 00:10:56,112 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="00daf0f3-96ed-496e-af36-d4daa1f14a92")>
+2025-10-08 00:11:01,434 - Cargando... esperando que termine el proceso.
+2025-10-08 00:13:14,962 - Captura Pantalla: ./fotosPDV/21011250.png
+2025-10-08 00:13:22,137 - Envió imagen al Telegram
+2025-10-08 00:13:28,147 - Mensaje_exito: None.
+2025-10-08 00:13:28,178 - Se abre Bnet
+2025-10-08 00:13:36,055 - Ingreso a contratopersonas
+2025-10-08 00:13:36,070 - Se encuentra el campo dcto. principal
+2025-10-08 00:13:36,070 - La pagina se carga correctamente
+2025-10-08 00:13:39,083 - Se consulta el documento: 1120868086
+2025-10-08 00:13:40,635 - El campo nombre es:JENNIFER KARINA, de la cedula: 1120868086
+2025-10-08 00:13:40,936 - Se encontro el enlace: Personal ventas
+2025-10-08 00:13:46,213 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:13:48,237 - Se escribe en el campo 
+2025-10-08 00:13:52,281 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="ce8f4cd8-5a17-4541-809d-fcc2ec3cd2c3")>
+2025-10-08 00:13:57,603 - Cargando... esperando que termine el proceso.
+2025-10-08 00:16:13,064 - Captura Pantalla: ./fotosPDV/1120868086.png
+2025-10-08 00:16:20,256 - Envió imagen al Telegram
+2025-10-08 00:16:26,266 - Mensaje_exito: None.
+2025-10-08 00:16:26,288 - Se abre Bnet
+2025-10-08 00:16:34,289 - Ingreso a contratopersonas
+2025-10-08 00:16:34,304 - Se encuentra el campo dcto. principal
+2025-10-08 00:16:34,304 - La pagina se carga correctamente
+2025-10-08 00:16:37,317 - Se consulta el documento: 21243208
+2025-10-08 00:16:38,342 - El campo nombre es:MARIA, de la cedula: 21243208
+2025-10-08 00:16:38,659 - Se encontro el enlace: Personal ventas
+2025-10-08 00:16:43,945 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:16:45,974 - Se escribe en el campo 
+2025-10-08 00:16:50,020 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="bc90b745-5147-4bb9-bf0f-239eb3c8ee2d")>
+2025-10-08 00:16:55,324 - Cargando... esperando que termine el proceso.
+2025-10-08 00:19:12,884 - Captura Pantalla: ./fotosPDV/21243208.png
+2025-10-08 00:19:19,713 - Envió imagen al Telegram
+2025-10-08 00:19:25,754 - Mensaje_exito: None.
+2025-10-08 00:19:25,770 - Se abre Bnet
+2025-10-08 00:19:33,747 - Ingreso a contratopersonas
+2025-10-08 00:19:33,747 - Se encuentra el campo dcto. principal
+2025-10-08 00:19:33,747 - La pagina se carga correctamente
+2025-10-08 00:19:36,760 - Se consulta el documento: 1799801717
+2025-10-08 00:19:38,318 - El campo nombre es:CASINO LA SEXTA BETPLAY, de la cedula: 1799801717
+2025-10-08 00:19:38,634 - Se encontro el enlace: Personal ventas
+2025-10-08 00:19:43,892 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:19:45,916 - Se escribe en el campo 
+2025-10-08 00:19:49,944 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="502f4b7d-e47d-4c84-9855-abf03eaa5d99")>
+2025-10-08 00:19:55,246 - Cargando... esperando que termine el proceso.
+2025-10-08 00:20:00,247 - Captura Pantalla: ./fotosPDV/1799801717.png
+2025-10-08 00:20:07,238 - Envió imagen al Telegram
+2025-10-08 00:20:13,246 - Mensaje_exito: None.
+2025-10-08 00:20:13,262 - Se abre Bnet
+2025-10-08 00:20:21,697 - Ingreso a contratopersonas
+2025-10-08 00:20:21,712 - Se encuentra el campo dcto. principal
+2025-10-08 00:20:21,712 - La pagina se carga correctamente
+2025-10-08 00:20:24,721 - Se consulta el documento: 15960326
+2025-10-08 00:20:26,768 - El campo nombre es:MARTIN, de la cedula: 15960326
+2025-10-08 00:20:27,535 - Se encontro el enlace: Personal ventas
+2025-10-08 00:20:32,827 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:20:34,850 - Se escribe en el campo 
+2025-10-08 00:20:38,862 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="32dcd802-36cc-4547-8e8f-43cdb637da9d")>
+2025-10-08 00:20:44,178 - Cargando... esperando que termine el proceso.
+2025-10-08 00:22:57,711 - Captura Pantalla: ./fotosPDV/15960326.png
+2025-10-08 00:23:05,821 - Envió imagen al Telegram
+2025-10-08 00:23:11,858 - Mensaje_exito: None.
+2025-10-08 00:23:11,874 - Se abre Bnet
+2025-10-08 00:23:19,851 - Ingreso a contratopersonas
+2025-10-08 00:23:19,851 - Se encuentra el campo dcto. principal
+2025-10-08 00:23:19,851 - La pagina se carga correctamente
+2025-10-08 00:23:22,863 - Se consulta el documento: 1120868173
+2025-10-08 00:23:23,905 - El campo nombre es:JEIDY NATALIA, de la cedula: 1120868173
+2025-10-08 00:23:24,222 - Se encontro el enlace: Personal ventas
+2025-10-08 00:23:29,502 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:23:31,533 - Se escribe en el campo 
+2025-10-08 00:23:35,549 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="682847fa-2626-459d-a74c-74ea652fcf7a")>
+2025-10-08 00:23:40,881 - Cargando... esperando que termine el proceso.
+2025-10-08 00:25:56,479 - Captura Pantalla: ./fotosPDV/1120868173.png
+2025-10-08 00:26:03,654 - Envió imagen al Telegram
+2025-10-08 00:26:09,688 - Mensaje_exito: None.
+2025-10-08 00:26:09,704 - Se abre Bnet
+2025-10-08 00:26:17,714 - Ingreso a contratopersonas
+2025-10-08 00:26:17,714 - Se encuentra el campo dcto. principal
+2025-10-08 00:26:17,714 - La pagina se carga correctamente
+2025-10-08 00:26:20,721 - Se consulta el documento: 900084777
+2025-10-08 00:26:21,761 - El campo nombre es:SUPER GIROS DINERO MOVIL, de la cedula: 900084777
+2025-10-08 00:26:22,077 - Se encontro el enlace: Personal ventas
+2025-10-08 00:26:27,362 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:26:29,393 - Se escribe en el campo 
+2025-10-08 00:26:33,433 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="970bcb08-6ac3-4905-acb3-9e5cb3ca4a2f")>
+2025-10-08 00:26:38,805 - Cargando... esperando que termine el proceso.
+2025-10-08 00:26:43,805 - Captura Pantalla: ./fotosPDV/900084777.png
+2025-10-08 00:26:50,860 - Envió imagen al Telegram
+2025-10-08 00:26:56,916 - Mensaje_exito: None.
+2025-10-08 00:26:56,932 - Se abre Bnet
+2025-10-08 00:27:05,117 - Ingreso a contratopersonas
+2025-10-08 00:27:05,117 - Se encuentra el campo dcto. principal
+2025-10-08 00:27:05,117 - La pagina se carga correctamente
+2025-10-08 00:27:08,145 - Se consulta el documento: 1033690960
+2025-10-08 00:27:09,699 - El campo nombre es:ADELAYDA, de la cedula: 1033690960
+2025-10-08 00:27:10,454 - Se encontro el enlace: Personal ventas
+2025-10-08 00:27:15,731 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:27:17,752 - Se escribe en el campo 
+2025-10-08 00:27:21,784 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="99042814-626d-4ddf-b289-02c18754de62")>
+2025-10-08 00:27:27,106 - Cargando... esperando que termine el proceso.
+2025-10-08 00:29:42,734 - Captura Pantalla: ./fotosPDV/1033690960.png
+2025-10-08 00:29:49,653 - Envió imagen al Telegram
+2025-10-08 00:29:55,660 - Mensaje_exito: None.
+2025-10-08 00:29:55,675 - Se abre Bnet
+2025-10-08 00:30:02,718 - Ingreso a contratopersonas
+2025-10-08 00:30:12,766 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-08 00:30:12,766 - Se consulta el documento: 1075315269
+2025-10-08 00:30:32,923 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-08 00:30:43,027 - Se abre Bnet
+2025-10-08 00:30:50,866 - Ingreso a contratopersonas
+2025-10-08 00:30:50,882 - Se encuentra el campo dcto. principal
+2025-10-08 00:30:50,882 - La pagina se carga correctamente
+2025-10-08 00:30:53,882 - Se consulta el documento: 33676007
+2025-10-08 00:30:54,939 - El campo nombre es:AIDA YAMILE, de la cedula: 33676007
+2025-10-08 00:30:55,705 - Se encontro el enlace: Personal ventas
+2025-10-08 00:31:00,957 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:31:02,981 - Se escribe en el campo 
+2025-10-08 00:31:07,018 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="f414a649-1526-437a-9bd1-e97674db533d")>
+2025-10-08 00:31:12,340 - Cargando... esperando que termine el proceso.
+2025-10-08 00:33:27,859 - Captura Pantalla: ./fotosPDV/33676007.png
+2025-10-08 00:33:35,853 - Envió imagen al Telegram
+2025-10-08 00:33:41,860 - Mensaje_exito: None.
+2025-10-08 00:33:41,891 - Se abre Bnet
+2025-10-08 00:33:49,943 - Ingreso a contratopersonas
+2025-10-08 00:33:49,943 - Se encuentra el campo dcto. principal
+2025-10-08 00:33:49,943 - La pagina se carga correctamente
+2025-10-08 00:33:52,950 - Se consulta el documento: 1121818890
+2025-10-08 00:33:54,509 - El campo nombre es:MARIA FANNY, de la cedula: 1121818890
+2025-10-08 00:33:54,841 - Se encontro el enlace: Personal ventas
+2025-10-08 00:34:00,130 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:34:02,160 - Se escribe en el campo 
+2025-10-08 00:34:06,177 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="2e268ef8-0141-4ecd-8880-3b37e4eb96da")>
+2025-10-08 00:34:11,477 - Cargando... esperando que termine el proceso.
+2025-10-08 00:36:23,038 - Captura Pantalla: ./fotosPDV/1121818890.png
+2025-10-08 00:36:30,295 - Envió imagen al Telegram
+2025-10-08 00:36:36,303 - Mensaje_exito: None.
+2025-10-08 00:36:36,334 - Se abre Bnet
+2025-10-08 00:36:44,364 - Ingreso a contratopersonas
+2025-10-08 00:36:44,364 - Se encuentra el campo dcto. principal
+2025-10-08 00:36:44,364 - La pagina se carga correctamente
+2025-10-08 00:36:47,392 - Se consulta el documento: 555555555
+2025-10-08 00:36:49,019 - El campo nombre es:SUPERGIROS DM, de la cedula: 555555555
+2025-10-08 00:36:49,335 - Se encontro el enlace: Personal ventas
+2025-10-08 00:36:54,634 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:36:56,657 - Se escribe en el campo 
+2025-10-08 00:37:00,687 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="5f1567f1-f3bd-42c9-846f-6eafa79870dd")>
+2025-10-08 00:37:06,023 - Cargando... esperando que termine el proceso.
+2025-10-08 00:37:11,041 - Captura Pantalla: ./fotosPDV/555555555.png
+2025-10-08 00:37:17,720 - Envió imagen al Telegram
+2025-10-08 00:37:23,753 - Mensaje_exito: None.
+2025-10-08 00:37:23,784 - Se abre Bnet
+2025-10-08 00:37:31,714 - Ingreso a contratopersonas
+2025-10-08 00:37:31,714 - Se encuentra el campo dcto. principal
+2025-10-08 00:37:31,714 - La pagina se carga correctamente
+2025-10-08 00:37:34,726 - Se consulta el documento: 555555556
+2025-10-08 00:37:36,279 - El campo nombre es:SUPERGIROS DM, de la cedula: 555555556
+2025-10-08 00:37:37,078 - Se encontro el enlace: Personal ventas
+2025-10-08 00:37:42,329 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:37:44,359 - Se escribe en el campo 
+2025-10-08 00:37:48,390 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="b5665350-a47a-4f0c-941f-43e143ecbe91")>
+2025-10-08 00:37:53,711 - Cargando... esperando que termine el proceso.
+2025-10-08 00:37:58,717 - Captura Pantalla: ./fotosPDV/555555556.png
+2025-10-08 00:38:05,458 - Envió imagen al Telegram
+2025-10-08 00:38:21,535 - Se abre Bnet
+2025-10-08 00:38:29,810 - Ingreso a contratopersonas
+2025-10-08 00:38:29,810 - Se encuentra el campo dcto. principal
+2025-10-08 00:38:29,810 - La pagina se carga correctamente
+2025-10-08 00:38:32,820 - Se consulta el documento: 900737989
+2025-10-08 00:38:34,371 - El campo nombre es:BEMOVIL SAS, de la cedula: 900737989
+2025-10-08 00:38:35,172 - Se encontro el enlace: Personal ventas
+2025-10-08 00:38:40,440 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:38:42,464 - Se escribe en el campo 
+2025-10-08 00:38:46,494 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="df4b43ec-d698-486f-a298-2325b3598e13")>
+2025-10-08 00:38:51,810 - Cargando... esperando que termine el proceso.
+2025-10-08 00:38:56,830 - Captura Pantalla: ./fotosPDV/900737989.png
+2025-10-08 00:39:03,827 - Envió imagen al Telegram
+2025-10-08 00:39:09,850 - Mensaje_exito: None.
+2025-10-08 00:39:09,891 - Se abre Bnet
+2025-10-08 00:39:17,866 - Ingreso a contratopersonas
+2025-10-08 00:39:17,882 - Se encuentra el campo dcto. principal
+2025-10-08 00:39:17,882 - La pagina se carga correctamente
+2025-10-08 00:39:20,895 - Se consulta el documento: 9007379890
+2025-10-08 00:39:21,929 - El campo nombre es:BEMOVIL, de la cedula: 9007379890
+2025-10-08 00:39:22,766 - Se encontro el enlace: Personal ventas
+2025-10-08 00:39:28,060 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:39:30,072 - Se escribe en el campo 
+2025-10-08 00:39:34,116 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="75b6bce3-b53e-4ad0-b3aa-ccab3bbd7397")>
+2025-10-08 00:39:39,420 - Cargando... esperando que termine el proceso.
+2025-10-08 00:39:44,437 - Captura Pantalla: ./fotosPDV/9007379890.png
+2025-10-08 00:39:51,150 - Envió imagen al Telegram
+2025-10-08 00:39:57,176 - Mensaje_exito: None.
+2025-10-08 00:39:57,192 - Se abre Bnet
+2025-10-08 00:40:05,035 - Ingreso a contratopersonas
+2025-10-08 00:40:05,035 - Se encuentra el campo dcto. principal
+2025-10-08 00:40:05,035 - La pagina se carga correctamente
+2025-10-08 00:40:08,047 - Se consulta el documento: 1121913651
+2025-10-08 00:40:09,600 - El campo nombre es:ANGY KATHERINE, de la cedula: 1121913651
+2025-10-08 00:40:10,374 - Se encontro el enlace: Personal ventas
+2025-10-08 00:40:15,649 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:40:17,674 - Se escribe en el campo 
+2025-10-08 00:40:21,707 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="f2c53c37-c842-4041-bc2d-48a847377521")>
+2025-10-08 00:40:27,011 - Cargando... esperando que termine el proceso.
+2025-10-08 00:42:40,527 - Captura Pantalla: ./fotosPDV/1121913651.png
+2025-10-08 00:42:47,300 - Envió imagen al Telegram
+2025-10-08 00:42:53,318 - Mensaje_exito: None.
+2025-10-08 00:42:53,350 - Se abre Bnet
+2025-10-08 00:43:02,053 - Ingreso a contratopersonas
+2025-10-08 00:43:02,053 - Se encuentra el campo dcto. principal
+2025-10-08 00:43:02,053 - La pagina se carga correctamente
+2025-10-08 00:43:05,066 - Se consulta el documento: 9000847773
+2025-10-08 00:43:06,199 - El campo nombre es:SUPERGIROS DM TRES, de la cedula: 9000847773
+2025-10-08 00:43:06,523 - Se encontro el enlace: Personal ventas
+2025-10-08 00:43:11,804 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:43:13,835 - Se escribe en el campo 
+2025-10-08 00:43:17,898 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="d5c3d6e2-fa57-49ae-92d0-e754e2478166")>
+2025-10-08 00:43:23,201 - Cargando... esperando que termine el proceso.
+2025-10-08 00:43:28,222 - Captura Pantalla: ./fotosPDV/9000847773.png
+2025-10-08 00:43:35,953 - Envió imagen al Telegram
+2025-10-08 00:43:41,965 - Mensaje_exito: None.
+2025-10-08 00:43:41,981 - Se abre Bnet
+2025-10-08 00:43:50,026 - Ingreso a contratopersonas
+2025-10-08 00:43:50,041 - Se encuentra el campo dcto. principal
+2025-10-08 00:43:50,041 - La pagina se carga correctamente
+2025-10-08 00:43:53,051 - Se consulta el documento: 9000847774
+2025-10-08 00:43:54,108 - El campo nombre es:SUPERGIROS DM CUATRO, de la cedula: 9000847774
+2025-10-08 00:43:54,923 - Se encontro el enlace: Personal ventas
+2025-10-08 00:44:00,190 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:44:02,215 - Se escribe en el campo 
+2025-10-08 00:44:06,230 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="16a8298b-22a2-4350-8c45-238c87a8cf81")>
+2025-10-08 00:44:11,513 - Cargando... esperando que termine el proceso.
+2025-10-08 00:44:16,520 - Captura Pantalla: ./fotosPDV/9000847774.png
+2025-10-08 00:44:23,176 - Envió imagen al Telegram
+2025-10-08 00:44:29,181 - Mensaje_exito: None.
+2025-10-08 00:44:29,212 - Se abre Bnet
+2025-10-08 00:44:37,148 - Ingreso a contratopersonas
+2025-10-08 00:44:37,148 - Se encuentra el campo dcto. principal
+2025-10-08 00:44:37,148 - La pagina se carga correctamente
+2025-10-08 00:44:40,176 - Se consulta el documento: 52861841
+2025-10-08 00:44:41,729 - El campo nombre es:LIDA MARCELA, de la cedula: 52861841
+2025-10-08 00:44:42,500 - Se encontro el enlace: Personal ventas
+2025-10-08 00:44:47,781 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:44:49,806 - Se escribe en el campo 
+2025-10-08 00:44:53,844 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="9cfb0d8a-c10c-4e2c-ad31-f8a1bccaf366")>
+2025-10-08 00:44:59,148 - Cargando... esperando que termine el proceso.
+2025-10-08 00:47:14,670 - Captura Pantalla: ./fotosPDV/52861841.png
+2025-10-08 00:47:21,769 - Envió imagen al Telegram
+2025-10-08 00:47:27,782 - Mensaje_exito: None.
+2025-10-08 00:47:27,803 - Se abre Bnet
+2025-10-08 00:47:35,582 - Ingreso a contratopersonas
+2025-10-08 00:47:35,582 - Se encuentra el campo dcto. principal
+2025-10-08 00:47:35,582 - La pagina se carga correctamente
+2025-10-08 00:47:38,594 - Se consulta el documento: 555555551
+2025-10-08 00:47:39,652 - El campo nombre es:SUPERGIROS DM, de la cedula: 555555551
+2025-10-08 00:47:39,969 - Se encontro el enlace: Personal ventas
+2025-10-08 00:47:45,221 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:47:47,241 - Se escribe en el campo 
+2025-10-08 00:47:51,274 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="2b433d75-8eca-4202-8d7c-96d8cbe4eda0")>
+2025-10-08 00:47:56,597 - Cargando... esperando que termine el proceso.
+2025-10-08 00:48:01,611 - Captura Pantalla: ./fotosPDV/555555551.png
+2025-10-08 00:48:08,475 - Envió imagen al Telegram
+2025-10-08 00:48:24,643 - Se abre Bnet
+2025-10-08 00:48:33,090 - Ingreso a contratopersonas
+2025-10-08 00:48:33,106 - Se encuentra el campo dcto. principal
+2025-10-08 00:48:33,106 - La pagina se carga correctamente
+2025-10-08 00:48:36,116 - Se consulta el documento: 5849675
+2025-10-08 00:48:37,667 - El campo nombre es:PRIMITIVO, de la cedula: 5849675
+2025-10-08 00:48:38,438 - Se encontro el enlace: Personal ventas
+2025-10-08 00:48:43,710 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:48:45,735 - Se escribe en el campo 
+2025-10-08 00:48:49,751 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="0c9321be-9eaf-4bd7-89ce-e07cd78a1112")>
+2025-10-08 00:48:55,073 - Cargando... esperando que termine el proceso.
+2025-10-08 00:51:08,549 - Captura Pantalla: ./fotosPDV/5849675.png
+2025-10-08 00:51:15,658 - Envió imagen al Telegram
+2025-10-08 00:51:21,700 - Mensaje_exito: None.
+2025-10-08 00:51:21,731 - Se abre Bnet
+2025-10-08 00:51:30,649 - Ingreso a contratopersonas
+2025-10-08 00:51:30,664 - Se encuentra el campo dcto. principal
+2025-10-08 00:51:30,664 - La pagina se carga correctamente
+2025-10-08 00:51:33,675 - Se consulta el documento: 555555552
+2025-10-08 00:51:35,737 - El campo nombre es:SUPERGIROS DM, de la cedula: 555555552
+2025-10-08 00:51:36,053 - Se encontro el enlace: Personal ventas
+2025-10-08 00:51:41,324 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:51:43,352 - Se escribe en el campo 
+2025-10-08 00:51:47,389 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="f069428b-f2b9-4c14-9161-f670df297004")>
+2025-10-08 00:51:52,695 - Cargando... esperando que termine el proceso.
+2025-10-08 00:51:57,716 - Captura Pantalla: ./fotosPDV/555555552.png
+2025-10-08 00:52:04,313 - Envió imagen al Telegram
+2025-10-08 00:52:20,444 - Se abre Bnet
+2025-10-08 00:52:28,859 - Ingreso a contratopersonas
+2025-10-08 00:52:28,875 - Se encuentra el campo dcto. principal
+2025-10-08 00:52:28,875 - La pagina se carga correctamente
+2025-10-08 00:52:31,878 - Se consulta el documento: 555555553
+2025-10-08 00:52:32,943 - El campo nombre es:SUPERGIROS DM, de la cedula: 555555553
+2025-10-08 00:52:33,751 - Se encontro el enlace: Personal ventas
+2025-10-08 00:52:39,036 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:52:41,061 - Se escribe en el campo 
+2025-10-08 00:52:45,093 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="f507ab44-8b0e-438a-badc-5c6a836b23a9")>
+2025-10-08 00:52:50,395 - Cargando... esperando que termine el proceso.
+2025-10-08 00:52:55,397 - Captura Pantalla: ./fotosPDV/555555553.png
+2025-10-08 00:53:02,189 - Envió imagen al Telegram
+2025-10-08 00:53:18,256 - Se abre Bnet
+2025-10-08 00:53:27,492 - Ingreso a contratopersonas
+2025-10-08 00:53:27,492 - Se encuentra el campo dcto. principal
+2025-10-08 00:53:27,492 - La pagina se carga correctamente
+2025-10-08 00:53:30,521 - Se consulta el documento: 555555554
+2025-10-08 00:53:32,594 - El campo nombre es:SUPERGIROS DM, de la cedula: 555555554
+2025-10-08 00:53:33,369 - Se encontro el enlace: Personal ventas
+2025-10-08 00:53:38,656 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:53:40,690 - Se escribe en el campo 
+2025-10-08 00:53:44,738 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="023a62e8-9830-4101-bfe3-dc077bf6cc64")>
+2025-10-08 00:53:50,053 - Cargando... esperando que termine el proceso.
+2025-10-08 00:53:55,074 - Captura Pantalla: ./fotosPDV/555555554.png
+2025-10-08 00:54:02,663 - Envió imagen al Telegram
+2025-10-08 00:54:18,730 - Se abre Bnet
+2025-10-08 00:54:27,186 - Ingreso a contratopersonas
+2025-10-08 00:54:27,186 - Se encuentra el campo dcto. principal
+2025-10-08 00:54:27,186 - La pagina se carga correctamente
+2025-10-08 00:54:30,191 - Se consulta el documento: 40417192
+2025-10-08 00:54:31,735 - El campo nombre es:MARYTZABEL, de la cedula: 40417192
+2025-10-08 00:54:32,499 - Se encontro el enlace: Personal ventas
+2025-10-08 00:54:37,792 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:54:39,814 - Se escribe en el campo 
+2025-10-08 00:54:43,843 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="a78a1117-9077-46fc-b9f0-e023fdc0247a")>
+2025-10-08 00:54:49,130 - Cargando... esperando que termine el proceso.
+2025-10-08 00:57:04,607 - Captura Pantalla: ./fotosPDV/40417192.png
+2025-10-08 00:57:11,758 - Envió imagen al Telegram
+2025-10-08 00:57:17,762 - Mensaje_exito: None.
+2025-10-08 00:57:17,777 - Se abre Bnet
+2025-10-08 00:57:25,737 - Ingreso a contratopersonas
+2025-10-08 00:57:25,737 - Se encuentra el campo dcto. principal
+2025-10-08 00:57:25,737 - La pagina se carga correctamente
+2025-10-08 00:57:28,750 - Se consulta el documento: 1122117543
+2025-10-08 00:57:29,807 - El campo nombre es:EDWIN ALEXANDER, de la cedula: 1122117543
+2025-10-08 00:57:30,124 - Se encontro el enlace: Personal ventas
+2025-10-08 00:57:35,405 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:57:37,437 - Se escribe en el campo 
+2025-10-08 00:57:41,469 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="fcb40391-3d8d-4552-b15f-bcb61e25990e")>
+2025-10-08 00:57:46,787 - Cargando... esperando que termine el proceso.
+2025-10-08 00:57:51,795 - Captura Pantalla: ./fotosPDV/1122117543.png
+2025-10-08 00:57:58,905 - Envió imagen al Telegram
+2025-10-08 00:58:04,929 - Mensaje_exito: None.
+2025-10-08 00:58:04,945 - Se abre Bnet
+2025-10-08 00:58:12,931 - Ingreso a contratopersonas
+2025-10-08 00:58:12,947 - Se encuentra el campo dcto. principal
+2025-10-08 00:58:12,947 - La pagina se carga correctamente
+2025-10-08 00:58:15,960 - Se consulta el documento: 1799831717
+2025-10-08 00:58:17,010 - El campo nombre es:CASINO TESORO OLIMPICO BE, de la cedula: 1799831717
+2025-10-08 00:58:17,793 - Se encontro el enlace: Personal ventas
+2025-10-08 00:58:23,088 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:58:25,116 - Se escribe en el campo 
+2025-10-08 00:58:29,130 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="99344b89-5ac8-471f-b1e0-c1b0fda69de8")>
+2025-10-08 00:58:34,447 - Cargando... esperando que termine el proceso.
+2025-10-08 00:58:39,452 - Captura Pantalla: ./fotosPDV/1799831717.png
+2025-10-08 00:58:46,070 - Envió imagen al Telegram
+2025-10-08 00:58:52,109 - Mensaje_exito: None.
+2025-10-08 00:58:52,125 - Se abre Bnet
+2025-10-08 00:59:00,236 - Ingreso a contratopersonas
+2025-10-08 00:59:00,236 - Se encuentra el campo dcto. principal
+2025-10-08 00:59:00,236 - La pagina se carga correctamente
+2025-10-08 00:59:03,258 - Se consulta el documento: 1799821717
+2025-10-08 00:59:05,295 - El campo nombre es:CASINO TESORO KIRPAS BETP, de la cedula: 1799821717
+2025-10-08 00:59:06,151 - Se encontro el enlace: Personal ventas
+2025-10-08 00:59:11,423 - Se encuentra el campo Grupo de Planes
+2025-10-08 00:59:13,447 - Se escribe en el campo 
+2025-10-08 00:59:17,476 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="381b59a5-0920-43c3-a222-5a50309275e1")>
+2025-10-08 00:59:22,795 - Cargando... esperando que termine el proceso.
+2025-10-08 00:59:27,814 - Captura Pantalla: ./fotosPDV/1799821717.png
+2025-10-08 00:59:34,778 - Envió imagen al Telegram
+2025-10-08 00:59:40,787 - Mensaje_exito: None.
+2025-10-08 00:59:40,809 - Se abre Bnet
+2025-10-08 00:59:49,788 - Ingreso a contratopersonas
+2025-10-08 00:59:49,803 - Se encuentra el campo dcto. principal
+2025-10-08 00:59:49,803 - La pagina se carga correctamente
+2025-10-08 00:59:52,813 - Se consulta el documento: 1799841717
+2025-10-08 00:59:54,372 - El campo nombre es:CASINO TESORO CUMARAL BET, de la cedula: 1799841717
+2025-10-08 00:59:55,144 - Se encontro el enlace: Personal ventas
+2025-10-08 01:00:00,421 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:00:02,442 - Se escribe en el campo 
+2025-10-08 01:00:06,475 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="eac9a365-aed5-4c6f-a238-001f1b504ef3")>
+2025-10-08 01:00:11,771 - Cargando... esperando que termine el proceso.
+2025-10-08 01:00:16,772 - Captura Pantalla: ./fotosPDV/1799841717.png
+2025-10-08 01:00:23,387 - Envió imagen al Telegram
+2025-10-08 01:00:29,406 - Mensaje_exito: None.
+2025-10-08 01:00:29,422 - Se abre Bnet
+2025-10-08 01:00:37,706 - Ingreso a contratopersonas
+2025-10-08 01:00:37,722 - Se encuentra el campo dcto. principal
+2025-10-08 01:00:37,722 - La pagina se carga correctamente
+2025-10-08 01:00:40,731 - Se consulta el documento: 40416523
+2025-10-08 01:00:42,307 - El campo nombre es:ANA ISABEL, de la cedula: 40416523
+2025-10-08 01:00:43,093 - Se encontro el enlace: Personal ventas
+2025-10-08 01:00:48,379 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:00:50,404 - Se escribe en el campo 
+2025-10-08 01:00:54,441 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="4039bf87-639c-4042-9c91-6f9b63bd6222")>
+2025-10-08 01:00:59,757 - Cargando... esperando que termine el proceso.
+2025-10-08 01:03:15,261 - Captura Pantalla: ./fotosPDV/40416523.png
+2025-10-08 01:03:22,230 - Envió imagen al Telegram
+2025-10-08 01:03:38,318 - Se abre Bnet
+2025-10-08 01:03:48,649 - Ingreso a contratopersonas
+2025-10-08 01:03:48,649 - Se encuentra el campo dcto. principal
+2025-10-08 01:03:48,649 - La pagina se carga correctamente
+2025-10-08 01:03:51,651 - Se consulta el documento: 9000847771
+2025-10-08 01:03:54,214 - El campo nombre es:SUPERGIROS DM UNO, de la cedula: 9000847771
+2025-10-08 01:03:54,545 - Se encontro el enlace: Personal ventas
+2025-10-08 01:03:59,825 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:04:01,845 - Se escribe en el campo 
+2025-10-08 01:04:05,861 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="5dba92fd-3747-4bf0-a199-c507e981a6d4")>
+2025-10-08 01:04:11,155 - Cargando... esperando que termine el proceso.
+2025-10-08 01:04:16,170 - Captura Pantalla: ./fotosPDV/9000847771.png
+2025-10-08 01:04:23,749 - Envió imagen al Telegram
+2025-10-08 01:04:29,766 - Mensaje_exito: None.
+2025-10-08 01:04:29,781 - Se abre Bnet
+2025-10-08 01:04:39,907 - Ingreso a contratopersonas
+2025-10-08 01:04:39,907 - Se encuentra el campo dcto. principal
+2025-10-08 01:04:39,907 - La pagina se carga correctamente
+2025-10-08 01:04:42,916 - Se consulta el documento: 9000847772
+2025-10-08 01:04:44,522 - El campo nombre es:SUPERGIROS DM DOS, de la cedula: 9000847772
+2025-10-08 01:04:45,318 - Se encontro el enlace: Personal ventas
+2025-10-08 01:04:50,608 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:04:52,633 - Se escribe en el campo 
+2025-10-08 01:04:56,663 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="d6069f04-4193-475e-84dc-fad4e39c2ccd")>
+2025-10-08 01:05:01,978 - Cargando... esperando que termine el proceso.
+2025-10-08 01:05:06,993 - Captura Pantalla: ./fotosPDV/9000847772.png
+2025-10-08 01:05:13,918 - Envió imagen al Telegram
+2025-10-08 01:05:19,938 - Mensaje_exito: None.
+2025-10-08 01:05:19,954 - Se abre Bnet
+2025-10-08 01:05:28,006 - Ingreso a contratopersonas
+2025-10-08 01:05:28,022 - Se encuentra el campo dcto. principal
+2025-10-08 01:05:28,022 - La pagina se carga correctamente
+2025-10-08 01:05:31,032 - Se consulta el documento: 40188434
+2025-10-08 01:05:33,071 - El campo nombre es:SIRLEY AIDE, de la cedula: 40188434
+2025-10-08 01:05:33,843 - Se encontro el enlace: Personal ventas
+2025-10-08 01:05:39,126 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:05:41,157 - Se escribe en el campo 
+2025-10-08 01:05:45,185 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="34e4477a-c82d-4c81-9c1f-ba6573140966")>
+2025-10-08 01:05:50,506 - Cargando... esperando que termine el proceso.
+2025-10-08 01:08:05,976 - Captura Pantalla: ./fotosPDV/40188434.png
+2025-10-08 01:08:13,120 - Envió imagen al Telegram
+2025-10-08 01:08:19,141 - Mensaje_exito: None.
+2025-10-08 01:08:19,157 - Se abre Bnet
+2025-10-08 01:08:27,017 - Ingreso a contratopersonas
+2025-10-08 01:08:27,017 - Se encuentra el campo dcto. principal
+2025-10-08 01:08:27,017 - La pagina se carga correctamente
+2025-10-08 01:08:30,028 - Se consulta el documento: 1121828917
+2025-10-08 01:08:31,078 - El campo nombre es:MONICA, de la cedula: 1121828917
+2025-10-08 01:08:31,402 - Se encontro el enlace: Personal ventas
+2025-10-08 01:08:36,702 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:08:38,729 - Se escribe en el campo 
+2025-10-08 01:08:42,743 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="f34ffe24-9147-4b1c-a9ec-a2745b7e07ec")>
+2025-10-08 01:08:48,043 - Cargando... esperando que termine el proceso.
+2025-10-08 01:10:59,649 - Captura Pantalla: ./fotosPDV/1121828917.png
+2025-10-08 01:11:06,778 - Envió imagen al Telegram
+2025-10-08 01:11:22,869 - Se abre Bnet
+2025-10-08 01:11:30,631 - Ingreso a contratopersonas
+2025-10-08 01:11:30,631 - Se encuentra el campo dcto. principal
+2025-10-08 01:11:30,631 - La pagina se carga correctamente
+2025-10-08 01:11:33,659 - Se consulta el documento: 1006771687
+2025-10-08 01:11:34,707 - El campo nombre es:MAYERLI, de la cedula: 1006771687
+2025-10-08 01:11:35,024 - Se encontro el enlace: Personal ventas
+2025-10-08 01:11:40,314 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:11:42,337 - Se escribe en el campo 
+2025-10-08 01:11:46,364 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="858dfd5f-051b-48e9-86da-93716b68cb0b")>
+2025-10-08 01:11:51,679 - Cargando... esperando que termine el proceso.
+2025-10-08 01:14:05,135 - Captura Pantalla: ./fotosPDV/1006771687.png
+2025-10-08 01:14:12,249 - Envió imagen al Telegram
+2025-10-08 01:14:18,260 - Mensaje_exito: None.
+2025-10-08 01:14:18,275 - Se abre Bnet
+2025-10-08 01:14:26,624 - Ingreso a contratopersonas
+2025-10-08 01:14:26,640 - Se encuentra el campo dcto. principal
+2025-10-08 01:14:26,640 - La pagina se carga correctamente
+2025-10-08 01:14:29,650 - Se consulta el documento: 1118555784
+2025-10-08 01:14:30,705 - El campo nombre es:YEIMY ANDREA, de la cedula: 1118555784
+2025-10-08 01:14:31,038 - Se encontro el enlace: Personal ventas
+2025-10-08 01:14:36,318 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:14:38,342 - Se escribe en el campo 
+2025-10-08 01:14:42,359 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="3de4bc3d-0db6-4f01-9fa7-c14b2cbaffbf")>
+2025-10-08 01:14:47,682 - Cargando... esperando que termine el proceso.
+2025-10-08 01:17:01,184 - Captura Pantalla: ./fotosPDV/1118555784.png
+2025-10-08 01:17:08,641 - Envió imagen al Telegram
+2025-10-08 01:17:14,661 - Mensaje_exito: None.
+2025-10-08 01:17:14,692 - Se abre Bnet
+2025-10-08 01:17:23,025 - Ingreso a contratopersonas
+2025-10-08 01:17:23,025 - Se encuentra el campo dcto. principal
+2025-10-08 01:17:23,025 - La pagina se carga correctamente
+2025-10-08 01:17:26,038 - Se consulta el documento: 79891869
+2025-10-08 01:17:27,073 - El campo nombre es:MIGUEL, de la cedula: 79891869
+2025-10-08 01:17:27,389 - Se encontro el enlace: Personal ventas
+2025-10-08 01:17:32,663 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:17:34,688 - Se escribe en el campo 
+2025-10-08 01:17:38,719 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="904a3b9f-78ad-45d4-815b-cdd4169a0623")>
+2025-10-08 01:17:44,020 - Cargando... esperando que termine el proceso.
+2025-10-08 01:19:57,579 - Captura Pantalla: ./fotosPDV/79891869.png
+2025-10-08 01:20:04,630 - Envió imagen al Telegram
+2025-10-08 01:20:10,655 - Mensaje_exito: None.
+2025-10-08 01:20:10,678 - Se abre Bnet
+2025-10-08 01:20:18,585 - Ingreso a contratopersonas
+2025-10-08 01:20:18,585 - Se encuentra el campo dcto. principal
+2025-10-08 01:20:18,585 - La pagina se carga correctamente
+2025-10-08 01:20:21,597 - Se consulta el documento: 40438899
+2025-10-08 01:20:22,638 - El campo nombre es:YENNY IGT, de la cedula: 40438899
+2025-10-08 01:20:22,954 - Se encontro el enlace: Personal ventas
+2025-10-08 01:20:28,213 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:20:30,236 - Se escribe en el campo 
+2025-10-08 01:20:34,275 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="4000fa16-3023-4df7-b845-02d13480901b")>
+2025-10-08 01:20:39,593 - Cargando... esperando que termine el proceso.
+2025-10-08 01:22:53,114 - Captura Pantalla: ./fotosPDV/40438899.png
+2025-10-08 01:23:00,175 - Envió imagen al Telegram
+2025-10-08 01:23:06,182 - Mensaje_exito: None.
+2025-10-08 01:23:06,213 - Se abre Bnet
+2025-10-08 01:23:14,481 - Ingreso a contratopersonas
+2025-10-08 01:23:14,481 - Se encuentra el campo dcto. principal
+2025-10-08 01:23:14,481 - La pagina se carga correctamente
+2025-10-08 01:23:17,489 - Se consulta el documento: 555555557
+2025-10-08 01:23:18,531 - El campo nombre es:PASARELA, de la cedula: 555555557
+2025-10-08 01:23:18,847 - Se encontro el enlace: Personal ventas
+2025-10-08 01:23:24,114 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:23:26,144 - Se escribe en el campo 
+2025-10-08 01:23:30,206 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="6b6d05f0-dd2c-4b96-8ad1-15f6504f9e65")>
+2025-10-08 01:23:35,528 - Cargando... esperando que termine el proceso.
+2025-10-08 01:23:40,532 - Captura Pantalla: ./fotosPDV/555555557.png
+2025-10-08 01:23:47,101 - Envió imagen al Telegram
+2025-10-08 01:23:53,111 - Mensaje_exito: None.
+2025-10-08 01:23:53,126 - Se abre Bnet
+2025-10-08 01:24:01,129 - Ingreso a contratopersonas
+2025-10-08 01:24:01,144 - Se encuentra el campo dcto. principal
+2025-10-08 01:24:01,144 - La pagina se carga correctamente
+2025-10-08 01:24:04,155 - Se consulta el documento: 68297670
+2025-10-08 01:24:14,276 - No se pudo obtener el campo nombre: Message: 
+
+2025-10-08 01:24:14,276 - El campo nombre es:None
+2025-10-08 01:24:14,291 - Captura Pantalla: ./fotosPDV/68297670.png
+2025-10-08 01:24:15,843 - Envió imagen al Telegram
+2025-10-08 01:24:15,843 - La cedula no es valida, por favor verificar
+2025-10-08 01:24:15,859 - Se abre Bnet
+2025-10-08 01:24:23,785 - Ingreso a contratopersonas
+2025-10-08 01:24:23,792 - Se encuentra el campo dcto. principal
+2025-10-08 01:24:23,792 - La pagina se carga correctamente
+2025-10-08 01:24:26,797 - Se consulta el documento: 14952515
+2025-10-08 01:24:28,350 - El campo nombre es:FELIX ENRIQUE, de la cedula: 14952515
+2025-10-08 01:24:29,181 - Se encontro el enlace: Personal ventas
+2025-10-08 01:24:34,431 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:24:36,462 - Se escribe en el campo 
+2025-10-08 01:24:40,496 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="8897d79b-2c44-47c3-90c1-7b524818e7e5")>
+2025-10-08 01:24:45,815 - Cargando... esperando que termine el proceso.
+2025-10-08 01:26:59,366 - Captura Pantalla: ./fotosPDV/14952515.png
+2025-10-08 01:27:05,889 - Envió imagen al Telegram
+2025-10-08 01:27:22,037 - Se abre Bnet
+2025-10-08 01:27:29,802 - Ingreso a contratopersonas
+2025-10-08 01:27:29,802 - Se encuentra el campo dcto. principal
+2025-10-08 01:27:29,802 - La pagina se carga correctamente
+2025-10-08 01:27:32,824 - Se consulta el documento: 1033723546
+2025-10-08 01:27:33,880 - El campo nombre es:DEISY ROSALBA, de la cedula: 1033723546
+2025-10-08 01:27:34,197 - Se encontro el enlace: Personal ventas
+2025-10-08 01:27:39,472 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:27:41,494 - Se escribe en el campo 
+2025-10-08 01:27:45,542 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="64b30d3c-8ea9-4848-ba8e-5addc0e803a8")>
+2025-10-08 01:27:50,869 - Cargando... esperando que termine el proceso.
+2025-10-08 01:30:04,400 - Captura Pantalla: ./fotosPDV/1033723546.png
+2025-10-08 01:30:12,134 - Envió imagen al Telegram
+2025-10-08 01:30:18,146 - Mensaje_exito: None.
+2025-10-08 01:30:18,162 - Se abre Bnet
+2025-10-08 01:30:27,355 - Ingreso a contratopersonas
+2025-10-08 01:30:27,371 - Se encuentra el campo dcto. principal
+2025-10-08 01:30:27,371 - La pagina se carga correctamente
+2025-10-08 01:30:30,381 - Se consulta el documento: 1120374995
+2025-10-08 01:30:33,455 - El campo nombre es:ADOLFO JOSE, de la cedula: 1120374995
+2025-10-08 01:30:33,772 - Se encontro el enlace: Personal ventas
+2025-10-08 01:30:39,071 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:30:41,101 - Se escribe en el campo 
+2025-10-08 01:30:45,148 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="2010243e-3fcf-491a-9fed-d4ad58312ead")>
+2025-10-08 01:30:50,464 - Cargando... esperando que termine el proceso.
+2025-10-08 01:30:55,478 - Captura Pantalla: ./fotosPDV/1120374995.png
+2025-10-08 01:31:02,323 - Envió imagen al Telegram
+2025-10-08 01:31:08,350 - Mensaje_exito: None.
+2025-10-08 01:31:08,366 - Se abre Bnet
+2025-10-08 01:31:18,291 - Ingreso a contratopersonas
+2025-10-08 01:31:18,291 - Se encuentra el campo dcto. principal
+2025-10-08 01:31:18,307 - La pagina se carga correctamente
+2025-10-08 01:31:21,318 - Se consulta el documento: 86044711
+2025-10-08 01:31:23,882 - El campo nombre es:LEONARDO , de la cedula: 86044711
+2025-10-08 01:31:24,665 - Se encontro el enlace: Personal ventas
+2025-10-08 01:31:29,953 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:31:31,976 - Se escribe en el campo 
+2025-10-08 01:31:36,008 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="5ed3b743-407a-435f-8e77-d67c25e850f8")>
+2025-10-08 01:31:41,317 - Cargando... esperando que termine el proceso.
+2025-10-08 01:33:56,854 - Captura Pantalla: ./fotosPDV/86044711.png
+2025-10-08 01:34:03,794 - Envió imagen al Telegram
+2025-10-08 01:34:09,805 - Mensaje_exito: None.
+2025-10-08 01:34:09,843 - Se abre Bnet
+2025-10-08 01:34:19,924 - Ingreso a contratopersonas
+2025-10-08 01:34:19,924 - Se encuentra el campo dcto. principal
+2025-10-08 01:34:19,924 - La pagina se carga correctamente
+2025-10-08 01:34:22,936 - Se consulta el documento: 40342629
+2025-10-08 01:34:24,996 - El campo nombre es:CLAUDIA MARIA, de la cedula: 40342629
+2025-10-08 01:34:25,313 - Se encontro el enlace: Personal ventas
+2025-10-08 01:34:30,579 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:34:32,607 - Se escribe en el campo 
+2025-10-08 01:34:36,672 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="ac4ba798-dc4b-47ed-8af1-6349918af08b")>
+2025-10-08 01:34:41,979 - Cargando... esperando que termine el proceso.
+2025-10-08 01:34:46,981 - Captura Pantalla: ./fotosPDV/40342629.png
+2025-10-08 01:34:53,847 - Envió imagen al Telegram
+2025-10-08 01:34:59,873 - Mensaje_exito: None.
+2025-10-08 01:34:59,905 - Se abre Bnet
+2025-10-08 01:35:10,099 - Ingreso a contratopersonas
+2025-10-08 01:35:10,099 - Se encuentra el campo dcto. principal
+2025-10-08 01:35:10,099 - La pagina se carga correctamente
+2025-10-08 01:35:13,109 - Se consulta el documento: 1006720164
+2025-10-08 01:35:15,216 - El campo nombre es:DEISY TATIANA, de la cedula: 1006720164
+2025-10-08 01:35:16,049 - Se encontro el enlace: Personal ventas
+2025-10-08 01:35:21,331 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:35:23,345 - Se escribe en el campo 
+2025-10-08 01:35:27,388 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="a66340e6-e7f9-4c67-b387-06a91ecaa63c")>
+2025-10-08 01:35:32,706 - Cargando... esperando que termine el proceso.
+2025-10-08 01:37:46,225 - Captura Pantalla: ./fotosPDV/1006720164.png
+2025-10-08 01:37:53,230 - Envió imagen al Telegram
+2025-10-08 01:37:59,238 - Mensaje_exito: None.
+2025-10-08 01:37:59,269 - Se abre Bnet
+2025-10-08 01:38:07,276 - Ingreso a contratopersonas
+2025-10-08 01:38:07,276 - Se encuentra el campo dcto. principal
+2025-10-08 01:38:07,292 - La pagina se carga correctamente
+2025-10-08 01:38:10,303 - Se consulta el documento: 1121869388
+2025-10-08 01:38:11,353 - El campo nombre es:ANYELA PATRICIA, de la cedula: 1121869388
+2025-10-08 01:38:11,654 - Se encontro el enlace: Personal ventas
+2025-10-08 01:38:16,907 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:38:18,930 - Se escribe en el campo 
+2025-10-08 01:38:22,951 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="5fae46ea-72ae-4548-b8d7-5df95744bfa0")>
+2025-10-08 01:38:28,272 - Cargando... esperando que termine el proceso.
+2025-10-08 01:40:41,783 - Captura Pantalla: ./fotosPDV/1121869388.png
+2025-10-08 01:40:49,665 - Envió imagen al Telegram
+2025-10-08 01:40:55,688 - Mensaje_exito: None.
+2025-10-08 01:40:55,703 - Se abre Bnet
+2025-10-08 01:41:03,617 - Ingreso a contratopersonas
+2025-10-08 01:41:03,617 - Se encuentra el campo dcto. principal
+2025-10-08 01:41:03,617 - La pagina se carga correctamente
+2025-10-08 01:41:06,630 - Se consulta el documento: 890900608214
+2025-10-08 01:41:09,171 - El campo nombre es:ALMACENES EXITO S A, de la cedula: 890900608214
+2025-10-08 01:41:09,488 - Se encontro el enlace: Personal ventas
+2025-10-08 01:41:14,759 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:41:16,784 - Se escribe en el campo 
+2025-10-08 01:41:20,815 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="539e65eb-3ac3-4418-b3bf-9b3cb9ffa5e1")>
+2025-10-08 01:41:26,118 - Cargando... esperando que termine el proceso.
+2025-10-08 01:43:37,600 - Captura Pantalla: ./fotosPDV/890900608214.png
+2025-10-08 01:43:44,540 - Envió imagen al Telegram
+2025-10-08 01:44:00,697 - Se abre Bnet
+2025-10-08 01:44:08,662 - Ingreso a contratopersonas
+2025-10-08 01:44:08,678 - Se encuentra el campo dcto. principal
+2025-10-08 01:44:08,678 - La pagina se carga correctamente
+2025-10-08 01:44:11,689 - Se consulta el documento: 890900608211
+2025-10-08 01:44:12,723 - El campo nombre es:ALMACENES EXITO S A, de la cedula: 890900608211
+2025-10-08 01:44:13,039 - Se encontro el enlace: Personal ventas
+2025-10-08 01:44:18,313 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:44:20,342 - Se escribe en el campo 
+2025-10-08 01:44:24,352 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="13627840-bc00-45a5-ba42-9591d5dc1a98")>
+2025-10-08 01:44:29,657 - Cargando... esperando que termine el proceso.
+2025-10-08 01:46:43,167 - Captura Pantalla: ./fotosPDV/890900608211.png
+2025-10-08 01:46:49,968 - Envió imagen al Telegram
+2025-10-08 01:47:06,048 - Se abre Bnet
+2025-10-08 01:47:14,528 - Ingreso a contratopersonas
+2025-10-08 01:47:14,528 - Se encuentra el campo dcto. principal
+2025-10-08 01:47:14,528 - La pagina se carga correctamente
+2025-10-08 01:47:17,533 - Se consulta el documento: 555555558
+2025-10-08 01:47:18,607 - El campo nombre es:GESTION ADM, de la cedula: 555555558
+2025-10-08 01:47:18,908 - Se encontro el enlace: Personal ventas
+2025-10-08 01:47:24,179 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:47:26,204 - Se escribe en el campo 
+2025-10-08 01:47:30,236 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="31c7d0de-c5c0-4422-b884-900b6122370e")>
+2025-10-08 01:47:35,576 - Cargando... esperando que termine el proceso.
+2025-10-08 01:49:51,036 - Captura Pantalla: ./fotosPDV/555555558.png
+2025-10-08 01:49:58,218 - Envió imagen al Telegram
+2025-10-08 01:50:04,274 - Mensaje_exito: None.
+2025-10-08 01:50:04,289 - Se abre Bnet
+2025-10-08 01:50:12,137 - Ingreso a contratopersonas
+2025-10-08 01:50:12,137 - Se encuentra el campo dcto. principal
+2025-10-08 01:50:12,137 - La pagina se carga correctamente
+2025-10-08 01:50:15,149 - Se consulta el documento: 89090060825
+2025-10-08 01:50:16,205 - El campo nombre es:ALMACENES EXITO S A, de la cedula: 89090060825
+2025-10-08 01:50:16,537 - Se encontro el enlace: Personal ventas
+2025-10-08 01:50:21,829 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:50:23,844 - Se escribe en el campo 
+2025-10-08 01:50:27,873 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="42fb62c7-3ccc-42e4-8169-2d6939624ed5")>
+2025-10-08 01:50:33,185 - Cargando... esperando que termine el proceso.
+2025-10-08 01:52:46,721 - Captura Pantalla: ./fotosPDV/89090060825.png
+2025-10-08 01:52:54,244 - Envió imagen al Telegram
+2025-10-08 01:53:10,332 - Se abre Bnet
+2025-10-08 01:53:18,285 - Ingreso a contratopersonas
+2025-10-08 01:53:18,285 - Se encuentra el campo dcto. principal
+2025-10-08 01:53:18,285 - La pagina se carga correctamente
+2025-10-08 01:53:21,289 - Se consulta el documento: 40356371
+2025-10-08 01:53:22,330 - El campo nombre es:DEISY IGT, de la cedula: 40356371
+2025-10-08 01:53:22,646 - Se encontro el enlace: Personal ventas
+2025-10-08 01:53:27,938 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:53:29,962 - Se escribe en el campo 
+2025-10-08 01:53:34,008 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="a620dec7-5c34-423d-a5e1-881a1894da19")>
+2025-10-08 01:53:39,326 - Cargando... esperando que termine el proceso.
+2025-10-08 01:55:54,933 - Captura Pantalla: ./fotosPDV/40356371.png
+2025-10-08 01:56:01,612 - Envió imagen al Telegram
+2025-10-08 01:56:07,617 - Mensaje_exito: None.
+2025-10-08 01:56:07,649 - Se abre Bnet
+2025-10-08 01:56:16,576 - Ingreso a contratopersonas
+2025-10-08 01:56:16,576 - Se encuentra el campo dcto. principal
+2025-10-08 01:56:16,576 - La pagina se carga correctamente
+2025-10-08 01:56:19,587 - Se consulta el documento: 40218334
+2025-10-08 01:56:21,140 - El campo nombre es:ANA FELMIS, de la cedula: 40218334
+2025-10-08 01:56:21,441 - Se encontro el enlace: Personal ventas
+2025-10-08 01:56:26,695 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:56:28,719 - Se escribe en el campo 
+2025-10-08 01:56:32,751 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="b8697f58-21bb-4c76-9f43-5375fde77096")>
+2025-10-08 01:56:38,067 - Cargando... esperando que termine el proceso.
+2025-10-08 01:58:51,617 - Captura Pantalla: ./fotosPDV/40218334.png
+2025-10-08 01:58:59,083 - Envió imagen al Telegram
+2025-10-08 01:59:05,106 - Mensaje_exito: None.
+2025-10-08 01:59:05,122 - Se abre Bnet
+2025-10-08 01:59:13,355 - Ingreso a contratopersonas
+2025-10-08 01:59:13,371 - Se encuentra el campo dcto. principal
+2025-10-08 01:59:13,371 - La pagina se carga correctamente
+2025-10-08 01:59:16,383 - Se consulta el documento: 1108928812
+2025-10-08 01:59:17,408 - El campo nombre es:ANGELA PATRICIA, de la cedula: 1108928812
+2025-10-08 01:59:18,221 - Se encontro el enlace: Personal ventas
+2025-10-08 01:59:23,493 - Se encuentra el campo Grupo de Planes
+2025-10-08 01:59:25,508 - Se escribe en el campo 
+2025-10-08 01:59:29,539 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="79166cfe-c491-49ae-95eb-55ac883b3f38")>
+2025-10-08 01:59:34,831 - Cargando... esperando que termine el proceso.
+2025-10-08 02:01:48,321 - Captura Pantalla: ./fotosPDV/1108928812.png
+2025-10-08 02:01:58,510 - Envió imagen al Telegram
+2025-10-08 02:02:04,529 - Mensaje_exito: None.
+2025-10-08 02:02:04,561 - Se abre Bnet
+2025-10-08 02:02:12,375 - Ingreso a contratopersonas
+2025-10-08 02:02:12,391 - Se encuentra el campo dcto. principal
+2025-10-08 02:02:12,391 - La pagina se carga correctamente
+2025-10-08 02:02:15,403 - Se consulta el documento: 9007505342
+2025-10-08 02:02:16,439 - El campo nombre es:RED SIPAGA, de la cedula: 9007505342
+2025-10-08 02:02:16,755 - Se encontro el enlace: Personal ventas
+2025-10-08 02:02:22,047 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:02:24,077 - Se escribe en el campo 
+2025-10-08 02:02:28,086 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="2112fb9a-5885-45bb-94fe-4d44da040458")>
+2025-10-08 02:02:33,420 - Cargando... esperando que termine el proceso.
+2025-10-08 02:04:48,933 - Captura Pantalla: ./fotosPDV/9007505342.png
+2025-10-08 02:04:58,043 - Envió imagen al Telegram
+2025-10-08 02:05:04,064 - Mensaje_exito: None.
+2025-10-08 02:05:04,079 - Se abre Bnet
+2025-10-08 02:05:12,874 - Ingreso a contratopersonas
+2025-10-08 02:05:12,874 - Se encuentra el campo dcto. principal
+2025-10-08 02:05:12,874 - La pagina se carga correctamente
+2025-10-08 02:05:15,876 - Se consulta el documento: 1003483201
+2025-10-08 02:05:16,900 - El campo nombre es:LAURA CRISTINA, de la cedula: 1003483201
+2025-10-08 02:05:17,216 - Se encontro el enlace: Personal ventas
+2025-10-08 02:05:22,478 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:05:24,508 - Se escribe en el campo 
+2025-10-08 02:05:28,553 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="582418ae-15ef-4a61-8680-aa04f8af1ce0")>
+2025-10-08 02:05:33,889 - Cargando... esperando que termine el proceso.
+2025-10-08 02:07:49,431 - Captura Pantalla: ./fotosPDV/1003483201.png
+2025-10-08 02:07:56,775 - Envió imagen al Telegram
+2025-10-08 02:08:02,781 - Mensaje_exito: None.
+2025-10-08 02:08:02,803 - Se abre Bnet
+2025-10-08 02:08:10,712 - Ingreso a contratopersonas
+2025-10-08 02:08:10,712 - Se encuentra el campo dcto. principal
+2025-10-08 02:08:10,712 - La pagina se carga correctamente
+2025-10-08 02:08:13,719 - Se consulta el documento: 1121911590
+2025-10-08 02:08:14,784 - El campo nombre es:GLORIA LISETH, de la cedula: 1121911590
+2025-10-08 02:08:15,085 - Se encontro el enlace: Personal ventas
+2025-10-08 02:08:20,374 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:08:22,397 - Se escribe en el campo 
+2025-10-08 02:08:26,411 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="95aac030-2d63-4701-b2a5-45ac9621635d")>
+2025-10-08 02:08:31,730 - Cargando... esperando que termine el proceso.
+2025-10-08 02:10:45,218 - Captura Pantalla: ./fotosPDV/1121911590.png
+2025-10-08 02:10:52,484 - Envió imagen al Telegram
+2025-10-08 02:10:58,537 - Mensaje_exito: None.
+2025-10-08 02:10:58,552 - Se abre Bnet
+2025-10-08 02:11:06,598 - Ingreso a contratopersonas
+2025-10-08 02:11:06,598 - Se encuentra el campo dcto. principal
+2025-10-08 02:11:06,598 - La pagina se carga correctamente
+2025-10-08 02:11:09,611 - Se consulta el documento: 30080723
+2025-10-08 02:11:10,684 - El campo nombre es:DEISY NAYIVER, de la cedula: 30080723
+2025-10-08 02:11:11,001 - Se encontro el enlace: Personal ventas
+2025-10-08 02:11:16,292 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:11:18,316 - Se escribe en el campo 
+2025-10-08 02:11:22,335 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="aae1156d-1732-48bf-b5d0-5faef987b87e")>
+2025-10-08 02:11:27,655 - Cargando... esperando que termine el proceso.
+2025-10-08 02:13:45,185 - Captura Pantalla: ./fotosPDV/30080723.png
+2025-10-08 02:13:52,325 - Envió imagen al Telegram
+2025-10-08 02:13:58,346 - Mensaje_exito: None.
+2025-10-08 02:13:58,362 - Se abre Bnet
+2025-10-08 02:14:06,293 - Ingreso a contratopersonas
+2025-10-08 02:14:06,309 - Se encuentra el campo dcto. principal
+2025-10-08 02:14:06,309 - La pagina se carga correctamente
+2025-10-08 02:14:09,317 - Se consulta el documento: 1006779023
+2025-10-08 02:14:10,875 - El campo nombre es:MARYURI, de la cedula: 1006779023
+2025-10-08 02:14:11,192 - Se encontro el enlace: Personal ventas
+2025-10-08 02:14:16,475 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:14:18,488 - Se escribe en el campo 
+2025-10-08 02:14:22,537 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="9f398be8-7364-4d65-96a8-392f073cb05c")>
+2025-10-08 02:14:27,854 - Cargando... esperando que termine el proceso.
+2025-10-08 02:16:41,356 - Captura Pantalla: ./fotosPDV/1006779023.png
+2025-10-08 02:16:49,159 - Envió imagen al Telegram
+2025-10-08 02:16:55,190 - Mensaje_exito: None.
+2025-10-08 02:16:55,221 - Se abre Bnet
+2025-10-08 02:17:03,246 - Ingreso a contratopersonas
+2025-10-08 02:17:03,246 - Se encuentra el campo dcto. principal
+2025-10-08 02:17:03,246 - La pagina se carga correctamente
+2025-10-08 02:17:06,254 - Se consulta el documento: 8909006082
+2025-10-08 02:17:07,343 - El campo nombre es:ALMACENES EXITO S A, de la cedula: 8909006082
+2025-10-08 02:17:07,660 - Se encontro el enlace: Personal ventas
+2025-10-08 02:17:12,942 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:17:14,956 - Se escribe en el campo 
+2025-10-08 02:17:19,002 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="77411e0d-fcb7-49e3-b066-c62105ee0665")>
+2025-10-08 02:17:24,323 - Cargando... esperando que termine el proceso.
+2025-10-08 02:19:37,816 - Captura Pantalla: ./fotosPDV/8909006082.png
+2025-10-08 02:19:44,803 - Envió imagen al Telegram
+2025-10-08 02:20:00,865 - Se abre Bnet
+2025-10-08 02:20:07,182 - Ingreso a contratopersonas
+2025-10-08 02:20:17,276 - Ocurrio un error al ingresar a contratos personas: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-08 02:20:17,276 - Se consulta el documento: 890900608213
+2025-10-08 02:20:37,373 - Ocurrio un error en Grupo Planes Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2025-10-08 02:20:47,453 - Se abre Bnet
+2025-10-08 02:20:55,851 - Ingreso a contratopersonas
+2025-10-08 02:20:55,851 - Se encuentra el campo dcto. principal
+2025-10-08 02:20:55,851 - La pagina se carga correctamente
+2025-10-08 02:20:58,863 - Se consulta el documento: 89090060821
+2025-10-08 02:20:59,920 - El campo nombre es:ALMACENES EXITO S A, de la cedula: 89090060821
+2025-10-08 02:21:00,739 - Se encontro el enlace: Personal ventas
+2025-10-08 02:21:06,010 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:21:08,037 - Se escribe en el campo 
+2025-10-08 02:21:12,084 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="9ab6f3e4-9ddd-4d63-a3d3-a39beaa75da2")>
+2025-10-08 02:21:17,402 - Cargando... esperando que termine el proceso.
+2025-10-08 02:23:30,913 - Captura Pantalla: ./fotosPDV/89090060821.png
+2025-10-08 02:23:37,755 - Envió imagen al Telegram
+2025-10-08 02:23:53,839 - Se abre Bnet
+2025-10-08 02:24:01,868 - Ingreso a contratopersonas
+2025-10-08 02:24:01,868 - Se encuentra el campo dcto. principal
+2025-10-08 02:24:01,868 - La pagina se carga correctamente
+2025-10-08 02:24:04,874 - Se consulta el documento: 89090060829
+2025-10-08 02:24:05,925 - El campo nombre es:ALMACENES EXITO S A, de la cedula: 89090060829
+2025-10-08 02:24:06,248 - Se encontro el enlace: Personal ventas
+2025-10-08 02:24:11,521 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:24:13,543 - Se escribe en el campo 
+2025-10-08 02:24:17,575 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="c892e54a-d9a6-402d-a27b-f77374b312a8")>
+2025-10-08 02:24:22,883 - Cargando... esperando que termine el proceso.
+2025-10-08 02:26:38,389 - Captura Pantalla: ./fotosPDV/89090060829.png
+2025-10-08 02:26:45,331 - Envió imagen al Telegram
+2025-10-08 02:27:01,476 - Se abre Bnet
+2025-10-08 02:27:09,422 - Ingreso a contratopersonas
+2025-10-08 02:27:09,422 - Se encuentra el campo dcto. principal
+2025-10-08 02:27:09,422 - La pagina se carga correctamente
+2025-10-08 02:27:12,427 - Se consulta el documento: 890900608212
+2025-10-08 02:27:13,485 - El campo nombre es:ALMACENES EXITO S A, de la cedula: 890900608212
+2025-10-08 02:27:13,801 - Se encontro el enlace: Personal ventas
+2025-10-08 02:27:19,073 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:27:21,096 - Se escribe en el campo 
+2025-10-08 02:27:25,143 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="67d4a141-0489-4961-9051-814eb5521089")>
+2025-10-08 02:27:30,461 - Cargando... esperando que termine el proceso.
+2025-10-08 02:29:43,960 - Captura Pantalla: ./fotosPDV/890900608212.png
+2025-10-08 02:29:51,445 - Envió imagen al Telegram
+2025-10-08 02:30:07,513 - Se abre Bnet
+2025-10-08 02:30:15,296 - Ingreso a contratopersonas
+2025-10-08 02:30:15,312 - Se encuentra el campo dcto. principal
+2025-10-08 02:30:15,312 - La pagina se carga correctamente
+2025-10-08 02:30:18,324 - Se consulta el documento: 89090060824
+2025-10-08 02:30:19,358 - El campo nombre es:ALMACENES EXITO S A, de la cedula: 89090060824
+2025-10-08 02:30:19,696 - Se encontro el enlace: Personal ventas
+2025-10-08 02:30:24,985 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:30:27,016 - Se escribe en el campo 
+2025-10-08 02:30:31,031 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="1d421946-4373-4e4e-ad56-a57a606f4f0b")>
+2025-10-08 02:30:36,334 - Cargando... esperando que termine el proceso.
+2025-10-08 02:32:51,871 - Captura Pantalla: ./fotosPDV/89090060824.png
+2025-10-08 02:32:58,760 - Envió imagen al Telegram
+2025-10-08 02:33:14,886 - Se abre Bnet
+2025-10-08 02:33:22,919 - Ingreso a contratopersonas
+2025-10-08 02:33:22,919 - Se encuentra el campo dcto. principal
+2025-10-08 02:33:22,935 - La pagina se carga correctamente
+2025-10-08 02:33:25,946 - Se consulta el documento: 89090060827
+2025-10-08 02:33:26,986 - El campo nombre es:ALMACENES EXITO S A, de la cedula: 89090060827
+2025-10-08 02:33:27,318 - Se encontro el enlace: Personal ventas
+2025-10-08 02:33:32,591 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:33:34,613 - Se escribe en el campo 
+2025-10-08 02:33:38,644 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="39e4602b-4e9c-46eb-8713-112d2f01d2b8")>
+2025-10-08 02:33:43,963 - Cargando... esperando que termine el proceso.
+2025-10-08 02:35:59,480 - Captura Pantalla: ./fotosPDV/89090060827.png
+2025-10-08 02:36:06,339 - Envió imagen al Telegram
+2025-10-08 02:36:22,455 - Se abre Bnet
+2025-10-08 02:36:30,768 - Ingreso a contratopersonas
+2025-10-08 02:36:30,768 - Se encuentra el campo dcto. principal
+2025-10-08 02:36:30,768 - La pagina se carga correctamente
+2025-10-08 02:36:33,777 - Se consulta el documento: 89090060828
+2025-10-08 02:36:35,330 - El campo nombre es:ALMACENES EXITO S A, de la cedula: 89090060828
+2025-10-08 02:36:35,630 - Se encontro el enlace: Personal ventas
+2025-10-08 02:36:40,906 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:36:42,930 - Se escribe en el campo 
+2025-10-08 02:36:46,954 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="afde1dd2-6f50-4095-9721-148563fb7ad1")>
+2025-10-08 02:36:52,273 - Cargando... esperando que termine el proceso.
+2025-10-08 02:39:07,759 - Captura Pantalla: ./fotosPDV/89090060828.png
+2025-10-08 02:39:14,793 - Envió imagen al Telegram
+2025-10-08 02:39:30,908 - Se abre Bnet
+2025-10-08 02:39:38,739 - Ingreso a contratopersonas
+2025-10-08 02:39:38,739 - Se encuentra el campo dcto. principal
+2025-10-08 02:39:38,739 - La pagina se carga correctamente
+2025-10-08 02:39:41,750 - Se consulta el documento: 890900608210
+2025-10-08 02:39:43,301 - El campo nombre es:ALMACENES EXITO S A, de la cedula: 890900608210
+2025-10-08 02:39:43,625 - Se encontro el enlace: Personal ventas
+2025-10-08 02:39:48,930 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:39:50,954 - Se escribe en el campo 
+2025-10-08 02:39:54,999 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="ebaf1cf8-8369-4b92-86f9-771caf858df8")>
+2025-10-08 02:40:00,301 - Cargando... esperando que termine el proceso.
+2025-10-08 02:42:11,873 - Captura Pantalla: ./fotosPDV/890900608210.png
+2025-10-08 02:42:20,978 - Envió imagen al Telegram
+2025-10-08 02:42:37,054 - Se abre Bnet
+2025-10-08 02:42:44,811 - Ingreso a contratopersonas
+2025-10-08 02:42:44,817 - Se encuentra el campo dcto. principal
+2025-10-08 02:42:44,817 - La pagina se carga correctamente
+2025-10-08 02:42:47,822 - Se consulta el documento: 40305749
+2025-10-08 02:42:48,879 - El campo nombre es:CARMEN JHOANA, de la cedula: 40305749
+2025-10-08 02:42:49,180 - Se encontro el enlace: Personal ventas
+2025-10-08 02:42:54,461 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:42:56,484 - Se escribe en el campo 
+2025-10-08 02:43:00,509 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="821b02c0-e71d-4d6b-8a92-4dfd59b443f8")>
+2025-10-08 02:43:05,836 - Cargando... esperando que termine el proceso.
+2025-10-08 02:43:10,851 - Captura Pantalla: ./fotosPDV/40305749.png
+2025-10-08 02:43:19,171 - Envió imagen al Telegram
+2025-10-08 02:43:25,178 - Mensaje_exito: None.
+2025-10-08 02:43:25,194 - Se abre Bnet
+2025-10-08 02:43:32,982 - Ingreso a contratopersonas
+2025-10-08 02:43:32,982 - Se encuentra el campo dcto. principal
+2025-10-08 02:43:32,982 - La pagina se carga correctamente
+2025-10-08 02:43:35,984 - Se consulta el documento: 1006718970
+2025-10-08 02:43:37,019 - El campo nombre es:MARIAJOSE, de la cedula: 1006718970
+2025-10-08 02:43:37,808 - Se encontro el enlace: Personal ventas
+2025-10-08 02:43:43,100 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:43:45,124 - Se escribe en el campo 
+2025-10-08 02:43:49,157 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="2c0c97c7-884f-4616-b160-c1de34504d1f")>
+2025-10-08 02:43:54,438 - Cargando... esperando que termine el proceso.
+2025-10-08 02:46:09,975 - Captura Pantalla: ./fotosPDV/1006718970.png
+2025-10-08 02:46:17,075 - Envió imagen al Telegram
+2025-10-08 02:46:23,086 - Mensaje_exito: None.
+2025-10-08 02:46:23,117 - Se abre Bnet
+2025-10-08 02:46:31,085 - Ingreso a contratopersonas
+2025-10-08 02:46:31,085 - Se encuentra el campo dcto. principal
+2025-10-08 02:46:31,085 - La pagina se carga correctamente
+2025-10-08 02:46:34,088 - Se consulta el documento: 1122919735
+2025-10-08 02:46:35,215 - El campo nombre es:PAULA ANDREA, de la cedula: 1122919735
+2025-10-08 02:46:35,532 - Se encontro el enlace: Personal ventas
+2025-10-08 02:46:40,812 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:46:42,825 - Se escribe en el campo 
+2025-10-08 02:46:46,886 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="b81a355d-2909-40e3-adbb-23fce259e7f4")>
+2025-10-08 02:46:52,189 - Cargando... esperando que termine el proceso.
+2025-10-08 02:49:05,749 - Captura Pantalla: ./fotosPDV/1122919735.png
+2025-10-08 02:49:12,970 - Envió imagen al Telegram
+2025-10-08 02:49:18,978 - Mensaje_exito: None.
+2025-10-08 02:49:18,994 - Se abre Bnet
+2025-10-08 02:49:27,563 - Ingreso a contratopersonas
+2025-10-08 02:49:27,563 - Se encuentra el campo dcto. principal
+2025-10-08 02:49:27,563 - La pagina se carga correctamente
+2025-10-08 02:49:30,564 - Se consulta el documento: 1006859801
+2025-10-08 02:49:31,625 - El campo nombre es:KAREN ELIZABETH, de la cedula: 1006859801
+2025-10-08 02:49:31,942 - Se encontro el enlace: Personal ventas
+2025-10-08 02:49:37,234 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:49:39,256 - Se escribe en el campo 
+2025-10-08 02:49:43,289 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="af38925b-5aa6-4fa1-8aea-9304294d9d3e")>
+2025-10-08 02:49:48,596 - Cargando... esperando que termine el proceso.
+2025-10-08 02:52:02,128 - Captura Pantalla: ./fotosPDV/1006859801.png
+2025-10-08 02:52:09,506 - Envió imagen al Telegram
+2025-10-08 02:52:15,522 - Mensaje_exito: None.
+2025-10-08 02:52:15,537 - Se abre Bnet
+2025-10-08 02:52:23,573 - Ingreso a contratopersonas
+2025-10-08 02:52:23,580 - Se encuentra el campo dcto. principal
+2025-10-08 02:52:23,580 - La pagina se carga correctamente
+2025-10-08 02:52:26,599 - Se consulta el documento: 1004634852
+2025-10-08 02:52:27,638 - El campo nombre es:MARIA ELENA, de la cedula: 1004634852
+2025-10-08 02:52:27,950 - Se encontro el enlace: Personal ventas
+2025-10-08 02:52:33,238 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:52:35,259 - Se escribe en el campo 
+2025-10-08 02:52:39,291 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="7190c42d-c290-4fd7-b396-1bde6fc8da42")>
+2025-10-08 02:52:44,619 - Cargando... esperando que termine el proceso.
+2025-10-08 02:54:58,113 - Captura Pantalla: ./fotosPDV/1004634852.png
+2025-10-08 02:55:06,004 - Envió imagen al Telegram
+2025-10-08 02:55:12,010 - Mensaje_exito: None.
+2025-10-08 02:55:12,025 - Se abre Bnet
+2025-10-08 02:55:20,007 - Ingreso a contratopersonas
+2025-10-08 02:55:20,007 - Se encuentra el campo dcto. principal
+2025-10-08 02:55:20,007 - La pagina se carga correctamente
+2025-10-08 02:55:23,019 - Se consulta el documento: 1116809197
+2025-10-08 02:55:24,053 - El campo nombre es:NURY MARIA, de la cedula: 1116809197
+2025-10-08 02:55:24,369 - Se encontro el enlace: Personal ventas
+2025-10-08 02:55:29,646 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:55:31,670 - Se escribe en el campo 
+2025-10-08 02:55:35,718 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="46e566c0-4049-4c5d-a206-f19ace7d306a")>
+2025-10-08 02:55:41,042 - Cargando... esperando que termine el proceso.
+2025-10-08 02:57:54,559 - Captura Pantalla: ./fotosPDV/1116809197.png
+2025-10-08 02:58:01,597 - Envió imagen al Telegram
+2025-10-08 02:58:07,619 - Mensaje_exito: None.
+2025-10-08 02:58:07,635 - Se abre Bnet
+2025-10-08 02:58:15,374 - Ingreso a contratopersonas
+2025-10-08 02:58:15,380 - Se encuentra el campo dcto. principal
+2025-10-08 02:58:15,380 - La pagina se carga correctamente
+2025-10-08 02:58:18,385 - Se consulta el documento: 444444444
+2025-10-08 02:58:19,441 - El campo nombre es:SUPERGIROS DM, de la cedula: 444444444
+2025-10-08 02:58:19,773 - Se encontro el enlace: Personal ventas
+2025-10-08 02:58:25,039 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:58:27,064 - Se escribe en el campo 
+2025-10-08 02:58:31,096 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="7fc59106-d950-413b-a24e-9459989e4d24")>
+2025-10-08 02:58:36,412 - Cargando... esperando que termine el proceso.
+2025-10-08 02:58:41,419 - Captura Pantalla: ./fotosPDV/444444444.png
+2025-10-08 02:58:48,257 - Envió imagen al Telegram
+2025-10-08 02:58:54,262 - Mensaje_exito: None.
+2025-10-08 02:58:54,278 - Se abre Bnet
+2025-10-08 02:59:02,279 - Ingreso a contratopersonas
+2025-10-08 02:59:02,294 - Se encuentra el campo dcto. principal
+2025-10-08 02:59:02,294 - La pagina se carga correctamente
+2025-10-08 02:59:05,303 - Se consulta el documento: 40330136
+2025-10-08 02:59:06,892 - El campo nombre es:MARTHA LUCIA, de la cedula: 40330136
+2025-10-08 02:59:07,742 - Se encontro el enlace: Personal ventas
+2025-10-08 02:59:13,018 - Se encuentra el campo Grupo de Planes
+2025-10-08 02:59:15,041 - Se escribe en el campo 
+2025-10-08 02:59:19,074 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="13af9d29-3ba7-4753-a183-5d4027c7bf99")>
+2025-10-08 02:59:24,371 - Cargando... esperando que termine el proceso.
+2025-10-08 03:01:39,877 - Captura Pantalla: ./fotosPDV/40330136.png
+2025-10-08 03:01:46,855 - Envió imagen al Telegram
+2025-10-08 03:01:52,880 - Mensaje_exito: None.
+2025-10-08 03:01:52,895 - Se abre Bnet
+2025-10-08 03:02:00,926 - Ingreso a contratopersonas
+2025-10-08 03:02:00,942 - Se encuentra el campo dcto. principal
+2025-10-08 03:02:00,942 - La pagina se carga correctamente
+2025-10-08 03:02:03,954 - Se consulta el documento: 1038100731
+2025-10-08 03:02:05,506 - El campo nombre es:KEILA DAYANA, de la cedula: 1038100731
+2025-10-08 03:02:05,829 - Se encontro el enlace: Personal ventas
+2025-10-08 03:02:11,128 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:02:13,159 - Se escribe en el campo 
+2025-10-08 03:02:17,191 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="a3ca797e-81e4-4a57-9443-4d613ae28e49")>
+2025-10-08 03:02:22,507 - Cargando... esperando que termine el proceso.
+2025-10-08 03:04:38,053 - Captura Pantalla: ./fotosPDV/1038100731.png
+2025-10-08 03:04:45,190 - Envió imagen al Telegram
+2025-10-08 03:04:51,196 - Mensaje_exito: None.
+2025-10-08 03:04:51,211 - Se abre Bnet
+2025-10-08 03:04:59,050 - Ingreso a contratopersonas
+2025-10-08 03:04:59,050 - Se encuentra el campo dcto. principal
+2025-10-08 03:04:59,050 - La pagina se carga correctamente
+2025-10-08 03:05:02,052 - Se consulta el documento: 1116861125
+2025-10-08 03:05:03,094 - El campo nombre es:ANABEL, de la cedula: 1116861125
+2025-10-08 03:05:03,411 - Se encontro el enlace: Personal ventas
+2025-10-08 03:05:08,702 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:05:10,723 - Se escribe en el campo 
+2025-10-08 03:05:14,771 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="c8d5a7b9-9782-4c35-bdbb-06310983509a")>
+2025-10-08 03:05:20,091 - Cargando... esperando que termine el proceso.
+2025-10-08 03:07:35,566 - Captura Pantalla: ./fotosPDV/1116861125.png
+2025-10-08 03:07:43,348 - Envió imagen al Telegram
+2025-10-08 03:07:49,371 - Mensaje_exito: None.
+2025-10-08 03:07:49,402 - Se abre Bnet
+2025-10-08 03:07:57,785 - Ingreso a contratopersonas
+2025-10-08 03:07:57,785 - Se encuentra el campo dcto. principal
+2025-10-08 03:07:57,785 - La pagina se carga correctamente
+2025-10-08 03:08:00,794 - Se consulta el documento: 1120866044
+2025-10-08 03:08:02,374 - El campo nombre es:SHARON YISELY, de la cedula: 1120866044
+2025-10-08 03:08:02,691 - Se encontro el enlace: Personal ventas
+2025-10-08 03:08:07,991 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:08:10,015 - Se escribe en el campo 
+2025-10-08 03:08:14,034 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="bfaaeb8f-f986-4dd8-a39f-53e7b7972537")>
+2025-10-08 03:08:19,375 - Cargando... esperando que termine el proceso.
+2025-10-08 03:10:32,811 - Captura Pantalla: ./fotosPDV/1120866044.png
+2025-10-08 03:10:39,970 - Envió imagen al Telegram
+2025-10-08 03:10:45,976 - Mensaje_exito: None.
+2025-10-08 03:10:45,991 - Se abre Bnet
+2025-10-08 03:10:53,814 - Ingreso a contratopersonas
+2025-10-08 03:10:53,830 - Se encuentra el campo dcto. principal
+2025-10-08 03:10:53,830 - La pagina se carga correctamente
+2025-10-08 03:10:56,835 - Se consulta el documento: 69022144
+2025-10-08 03:10:57,905 - El campo nombre es:ANGELA CONSUELO, de la cedula: 69022144
+2025-10-08 03:10:58,221 - Se encontro el enlace: Personal ventas
+2025-10-08 03:11:03,494 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:11:05,512 - Se escribe en el campo 
+2025-10-08 03:11:09,547 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="f53aec68-2afb-4e07-9dcb-3381cc6c4f54")>
+2025-10-08 03:11:14,835 - Cargando... esperando que termine el proceso.
+2025-10-08 03:13:28,174 - Captura Pantalla: ./fotosPDV/69022144.png
+2025-10-08 03:13:35,369 - Envió imagen al Telegram
+2025-10-08 03:13:41,400 - Mensaje_exito: None.
+2025-10-08 03:13:41,415 - Se abre Bnet
+2025-10-08 03:13:49,339 - Ingreso a contratopersonas
+2025-10-08 03:13:49,339 - Se encuentra el campo dcto. principal
+2025-10-08 03:13:49,339 - La pagina se carga correctamente
+2025-10-08 03:13:52,358 - Se consulta el documento: 1121820427
+2025-10-08 03:13:53,427 - El campo nombre es:ADRIANA DARNERY, de la cedula: 1121820427
+2025-10-08 03:13:53,759 - Se encontro el enlace: Personal ventas
+2025-10-08 03:13:59,030 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:14:01,045 - Se escribe en el campo 
+2025-10-08 03:14:05,062 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="e2cd152d-d3ca-4a3e-a018-12203fddde02")>
+2025-10-08 03:14:10,379 - Cargando... esperando que termine el proceso.
+2025-10-08 03:16:25,887 - Captura Pantalla: ./fotosPDV/1121820427.png
+2025-10-08 03:16:32,757 - Envió imagen al Telegram
+2025-10-08 03:16:38,759 - Mensaje_exito: None.
+2025-10-08 03:16:38,790 - Se abre Bnet
+2025-10-08 03:16:46,680 - Ingreso a contratopersonas
+2025-10-08 03:16:46,680 - Se encuentra el campo dcto. principal
+2025-10-08 03:16:46,680 - La pagina se carga correctamente
+2025-10-08 03:16:49,690 - Se consulta el documento: 1053764354
+2025-10-08 03:16:50,806 - El campo nombre es:LIZETH JOHANA, de la cedula: 1053764354
+2025-10-08 03:16:51,122 - Se encontro el enlace: Personal ventas
+2025-10-08 03:16:56,370 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:16:58,407 - Se escribe en el campo 
+2025-10-08 03:17:02,424 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="e740a896-f137-4010-a26e-2f7920629c8f")>
+2025-10-08 03:17:07,710 - Cargando... esperando que termine el proceso.
+2025-10-08 03:19:21,164 - Captura Pantalla: ./fotosPDV/1053764354.png
+2025-10-08 03:19:29,077 - Envió imagen al Telegram
+2025-10-08 03:19:35,096 - Mensaje_exito: None.
+2025-10-08 03:19:35,127 - Se abre Bnet
+2025-10-08 03:19:42,999 - Ingreso a contratopersonas
+2025-10-08 03:19:43,015 - Se encuentra el campo dcto. principal
+2025-10-08 03:19:43,015 - La pagina se carga correctamente
+2025-10-08 03:19:46,016 - Se consulta el documento: 1011086251
+2025-10-08 03:19:47,069 - El campo nombre es:LAURA DANIELA, de la cedula: 1011086251
+2025-10-08 03:19:47,385 - Se encontro el enlace: Personal ventas
+2025-10-08 03:19:52,671 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:19:54,697 - Se escribe en el campo 
+2025-10-08 03:19:58,718 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="a62860e2-64f5-4c26-8f22-ef3a6ef341db")>
+2025-10-08 03:20:04,031 - Cargando... esperando que termine el proceso.
+2025-10-08 03:22:17,554 - Captura Pantalla: ./fotosPDV/1011086251.png
+2025-10-08 03:22:24,719 - Envió imagen al Telegram
+2025-10-08 03:22:30,752 - Mensaje_exito: None.
+2025-10-08 03:22:30,767 - Se abre Bnet
+2025-10-08 03:22:38,840 - Ingreso a contratopersonas
+2025-10-08 03:22:38,855 - Se encuentra el campo dcto. principal
+2025-10-08 03:22:38,855 - La pagina se carga correctamente
+2025-10-08 03:22:41,859 - Se consulta el documento: 1121849836
+2025-10-08 03:22:42,997 - El campo nombre es:LEIDY TATIANA, de la cedula: 1121849836
+2025-10-08 03:22:43,313 - Se encontro el enlace: Personal ventas
+2025-10-08 03:22:48,613 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:22:50,643 - Se escribe en el campo 
+2025-10-08 03:22:54,660 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="86208fe6-03f3-4323-9da5-38a2df26f194")>
+2025-10-08 03:23:00,012 - Cargando... esperando que termine el proceso.
+2025-10-08 03:25:13,400 - Captura Pantalla: ./fotosPDV/1121849836.png
+2025-10-08 03:25:20,603 - Envió imagen al Telegram
+2025-10-08 03:25:26,620 - Mensaje_exito: None.
+2025-10-08 03:25:26,651 - Se abre Bnet
+2025-10-08 03:25:34,974 - Ingreso a contratopersonas
+2025-10-08 03:25:34,989 - Se encuentra el campo dcto. principal
+2025-10-08 03:25:34,989 - La pagina se carga correctamente
+2025-10-08 03:25:37,990 - Se consulta el documento: 1120864873
+2025-10-08 03:25:39,059 - El campo nombre es:LUISA FERNANDA, de la cedula: 1120864873
+2025-10-08 03:25:39,375 - Se encontro el enlace: Personal ventas
+2025-10-08 03:25:44,671 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:25:46,693 - Se escribe en el campo 
+2025-10-08 03:25:50,713 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="90104ff8-1cb7-416d-bbe8-e8cd3452cf5d")>
+2025-10-08 03:25:56,022 - Cargando... esperando que termine el proceso.
+2025-10-08 03:28:09,246 - Captura Pantalla: ./fotosPDV/1120864873.png
+2025-10-08 03:28:16,461 - Envió imagen al Telegram
+2025-10-08 03:28:22,473 - Mensaje_exito: None.
+2025-10-08 03:28:22,489 - Se abre Bnet
+2025-10-08 03:28:30,307 - Ingreso a contratopersonas
+2025-10-08 03:28:30,323 - Se encuentra el campo dcto. principal
+2025-10-08 03:28:30,323 - La pagina se carga correctamente
+2025-10-08 03:28:33,330 - Se consulta el documento: 1133839243
+2025-10-08 03:28:34,354 - El campo nombre es:ANA MARCELA, de la cedula: 1133839243
+2025-10-08 03:28:34,701 - Se encontro el enlace: Personal ventas
+2025-10-08 03:28:39,981 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:28:42,002 - Se escribe en el campo 
+2025-10-08 03:28:46,028 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="a6db35e5-0e92-47ce-8d5b-282723c13f53")>
+2025-10-08 03:28:51,302 - Cargando... esperando que termine el proceso.
+2025-10-08 03:31:04,654 - Captura Pantalla: ./fotosPDV/1133839243.png
+2025-10-08 03:31:13,035 - Envió imagen al Telegram
+2025-10-08 03:31:19,055 - Mensaje_exito: None.
+2025-10-08 03:31:19,075 - Se abre Bnet
+2025-10-08 03:31:26,901 - Ingreso a contratopersonas
+2025-10-08 03:31:26,901 - Se encuentra el campo dcto. principal
+2025-10-08 03:31:26,901 - La pagina se carga correctamente
+2025-10-08 03:31:29,908 - Se consulta el documento: 1121968001
+2025-10-08 03:31:31,480 - El campo nombre es:DEISY ANDREA, de la cedula: 1121968001
+2025-10-08 03:31:31,812 - Se encontro el enlace: Personal ventas
+2025-10-08 03:31:37,089 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:31:39,105 - Se escribe en el campo 
+2025-10-08 03:31:43,110 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="7a60db4e-1a25-418c-9ff3-2cd76a059c61")>
+2025-10-08 03:31:48,428 - Cargando... esperando que termine el proceso.
+2025-10-08 03:34:01,828 - Captura Pantalla: ./fotosPDV/1121968001.png
+2025-10-08 03:34:09,115 - Envió imagen al Telegram
+2025-10-08 03:34:15,122 - Mensaje_exito: None.
+2025-10-08 03:34:15,144 - Se abre Bnet
+2025-10-08 03:34:22,780 - Ingreso a contratopersonas
+2025-10-08 03:34:22,780 - Se encuentra el campo dcto. principal
+2025-10-08 03:34:22,780 - La pagina se carga correctamente
+2025-10-08 03:34:25,800 - Se consulta el documento: 77777778
+2025-10-08 03:34:26,834 - El campo nombre es:PREMIOS POR, de la cedula: 77777778
+2025-10-08 03:34:27,167 - Se encontro el enlace: Personal ventas
+2025-10-08 03:34:32,445 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:34:34,466 - Se escribe en el campo 
+2025-10-08 03:34:38,475 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="f1208551-acc6-42f5-9140-fbe939154511")>
+2025-10-08 03:34:43,783 - Cargando... esperando que termine el proceso.
+2025-10-08 03:34:48,792 - Captura Pantalla: ./fotosPDV/77777778.png
+2025-10-08 03:34:55,924 - Envió imagen al Telegram
+2025-10-08 03:35:01,946 - Mensaje_exito: None.
+2025-10-08 03:35:01,968 - Se abre Bnet
+2025-10-08 03:35:10,000 - Ingreso a contratopersonas
+2025-10-08 03:35:10,021 - Se encuentra el campo dcto. principal
+2025-10-08 03:35:10,021 - La pagina se carga correctamente
+2025-10-08 03:35:13,028 - Se consulta el documento: 77777779
+2025-10-08 03:35:14,109 - El campo nombre es:PAGO SERVICIOS, de la cedula: 77777779
+2025-10-08 03:35:15,519 - Se encontro el enlace: Personal ventas
+2025-10-08 03:35:20,832 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:35:22,877 - Se escribe en el campo 
+2025-10-08 03:35:26,926 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="eb94251a-d669-4818-8510-6c42fcf59ef5")>
+2025-10-08 03:35:32,228 - Cargando... esperando que termine el proceso.
+2025-10-08 03:35:37,242 - Captura Pantalla: ./fotosPDV/77777779.png
+2025-10-08 03:35:44,050 - Envió imagen al Telegram
+2025-10-08 03:35:50,056 - Mensaje_exito: None.
+2025-10-08 03:35:50,078 - Se abre Bnet
+2025-10-08 03:35:58,139 - Ingreso a contratopersonas
+2025-10-08 03:35:58,139 - Se encuentra el campo dcto. principal
+2025-10-08 03:35:58,139 - La pagina se carga correctamente
+2025-10-08 03:36:01,145 - Se consulta el documento: 1006719384
+2025-10-08 03:36:02,278 - El campo nombre es:LINDA JIMENA, de la cedula: 1006719384
+2025-10-08 03:36:03,216 - Se encontro el enlace: Personal ventas
+2025-10-08 03:36:08,493 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:36:10,513 - Se escribe en el campo 
+2025-10-08 03:36:14,536 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="9046af39-6821-46d0-883d-18eed0a12e87")>
+2025-10-08 03:36:19,841 - Cargando... esperando que termine el proceso.
+2025-10-08 03:38:35,245 - Captura Pantalla: ./fotosPDV/1006719384.png
+2025-10-08 03:38:42,362 - Envió imagen al Telegram
+2025-10-08 03:38:48,403 - Mensaje_exito: None.
+2025-10-08 03:38:48,443 - Se abre Bnet
+2025-10-08 03:38:56,518 - Ingreso a contratopersonas
+2025-10-08 03:38:56,528 - Se encuentra el campo dcto. principal
+2025-10-08 03:38:56,528 - La pagina se carga correctamente
+2025-10-08 03:38:59,546 - Se consulta el documento: 1006858033
+2025-10-08 03:39:01,331 - El campo nombre es:JEIMY ALEJANDRA, de la cedula: 1006858033
+2025-10-08 03:39:01,823 - Se encontro el enlace: Personal ventas
+2025-10-08 03:39:07,124 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:39:09,185 - Se escribe en el campo 
+2025-10-08 03:39:13,253 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="70443f03-678f-4182-94af-6b3cc648260f")>
+2025-10-08 03:39:18,579 - Cargando... esperando que termine el proceso.
+2025-10-08 03:41:31,942 - Captura Pantalla: ./fotosPDV/1006858033.png
+2025-10-08 03:41:39,833 - Envió imagen al Telegram
+2025-10-08 03:41:45,851 - Mensaje_exito: None.
+2025-10-08 03:41:45,866 - Se abre Bnet
+2025-10-08 03:41:53,691 - Ingreso a contratopersonas
+2025-10-08 03:41:53,691 - Se encuentra el campo dcto. principal
+2025-10-08 03:41:53,691 - La pagina se carga correctamente
+2025-10-08 03:41:56,707 - Se consulta el documento: 1122922330
+2025-10-08 03:41:57,739 - El campo nombre es:MONICA MAYERLY, de la cedula: 1122922330
+2025-10-08 03:41:58,056 - Se encontro el enlace: Personal ventas
+2025-10-08 03:42:03,328 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:42:05,346 - Se escribe en el campo 
+2025-10-08 03:42:09,378 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="06bd4357-cc0f-4cae-867a-58b97f8e6f30")>
+2025-10-08 03:42:14,681 - Cargando... esperando que termine el proceso.
+2025-10-08 03:44:28,128 - Captura Pantalla: ./fotosPDV/1122922330.png
+2025-10-08 03:44:35,282 - Envió imagen al Telegram
+2025-10-08 03:44:51,549 - Se abre Bnet
+2025-10-08 03:44:59,620 - Ingreso a contratopersonas
+2025-10-08 03:44:59,620 - Se encuentra el campo dcto. principal
+2025-10-08 03:44:59,620 - La pagina se carga correctamente
+2025-10-08 03:45:02,636 - Se consulta el documento: 1082773285
+2025-10-08 03:45:03,773 - El campo nombre es:LUZ ENID, de la cedula: 1082773285
+2025-10-08 03:45:04,089 - Se encontro el enlace: Personal ventas
+2025-10-08 03:45:09,370 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:45:11,392 - Se escribe en el campo 
+2025-10-08 03:45:15,426 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="c65ff97b-d4f7-4669-bcf8-0b52cc524dc0")>
+2025-10-08 03:45:20,753 - Cargando... esperando que termine el proceso.
+2025-10-08 03:47:36,107 - Captura Pantalla: ./fotosPDV/1082773285.png
+2025-10-08 03:47:43,255 - Envió imagen al Telegram
+2025-10-08 03:47:49,278 - Mensaje_exito: None.
+2025-10-08 03:47:49,294 - Se abre Bnet
+2025-10-08 03:47:57,200 - Ingreso a contratopersonas
+2025-10-08 03:47:57,207 - Se encuentra el campo dcto. principal
+2025-10-08 03:47:57,207 - La pagina se carga correctamente
+2025-10-08 03:48:00,225 - Se consulta el documento: 55190862
+2025-10-08 03:48:01,341 - El campo nombre es:ADRIANA MARIA, de la cedula: 55190862
+2025-10-08 03:48:01,657 - Se encontro el enlace: Personal ventas
+2025-10-08 03:48:06,941 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:48:08,965 - Se escribe en el campo 
+2025-10-08 03:48:12,983 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="08fe32ce-4137-4f8f-a737-822442e07324")>
+2025-10-08 03:48:18,285 - Cargando... esperando que termine el proceso.
+2025-10-08 03:50:33,729 - Captura Pantalla: ./fotosPDV/55190862.png
+2025-10-08 03:50:40,914 - Envió imagen al Telegram
+2025-10-08 03:50:46,947 - Mensaje_exito: None.
+2025-10-08 03:50:46,963 - Se abre Bnet
+2025-10-08 03:50:55,264 - Ingreso a contratopersonas
+2025-10-08 03:50:55,280 - Se encuentra el campo dcto. principal
+2025-10-08 03:50:55,280 - La pagina se carga correctamente
+2025-10-08 03:50:58,282 - Se consulta el documento: 1070325222
+2025-10-08 03:50:59,866 - El campo nombre es:NICOLE DAYAN, de la cedula: 1070325222
+2025-10-08 03:51:00,167 - Se encontro el enlace: Personal ventas
+2025-10-08 03:51:05,462 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:51:07,480 - Se escribe en el campo 
+2025-10-08 03:51:11,498 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="c0df4c99-2687-46ca-bed0-dbf3b4540664")>
+2025-10-08 03:51:16,820 - Cargando... esperando que termine el proceso.
+2025-10-08 03:53:32,324 - Captura Pantalla: ./fotosPDV/1070325222.png
+2025-10-08 03:53:40,490 - Envió imagen al Telegram
+2025-10-08 03:53:46,522 - Mensaje_exito: None.
+2025-10-08 03:53:46,538 - Se abre Bnet
+2025-10-08 03:53:54,450 - Ingreso a contratopersonas
+2025-10-08 03:53:54,450 - Se encuentra el campo dcto. principal
+2025-10-08 03:53:54,450 - La pagina se carga correctamente
+2025-10-08 03:53:57,467 - Se consulta el documento: 30520140
+2025-10-08 03:53:59,030 - El campo nombre es:YEIMY, de la cedula: 30520140
+2025-10-08 03:53:59,346 - Se encontro el enlace: Personal ventas
+2025-10-08 03:54:04,601 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:54:06,618 - Se escribe en el campo 
+2025-10-08 03:54:10,651 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="579e4187-5c69-48d9-b893-f82d505e8788")>
+2025-10-08 03:54:15,958 - Cargando... esperando que termine el proceso.
+2025-10-08 03:56:29,269 - Captura Pantalla: ./fotosPDV/30520140.png
+2025-10-08 03:56:36,507 - Envió imagen al Telegram
+2025-10-08 03:56:42,543 - Mensaje_exito: None.
+2025-10-08 03:56:42,558 - Se abre Bnet
+2025-10-08 03:56:50,710 - Ingreso a contratopersonas
+2025-10-08 03:56:50,716 - Se encuentra el campo dcto. principal
+2025-10-08 03:56:50,716 - La pagina se carga correctamente
+2025-10-08 03:56:53,734 - Se consulta el documento: 1124818008
+2025-10-08 03:56:55,282 - El campo nombre es:DANA KAROL YAROSLAY, de la cedula: 1124818008
+2025-10-08 03:56:55,599 - Se encontro el enlace: Personal ventas
+2025-10-08 03:57:00,893 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:57:02,924 - Se escribe en el campo 
+2025-10-08 03:57:06,943 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="4d644b94-aea1-41f8-8de3-01395bda0c79")>
+2025-10-08 03:57:12,243 - Cargando... esperando que termine el proceso.
+2025-10-08 03:59:25,712 - Captura Pantalla: ./fotosPDV/1124818008.png
+2025-10-08 03:59:32,766 - Envió imagen al Telegram
+2025-10-08 03:59:38,785 - Mensaje_exito: None.
+2025-10-08 03:59:38,817 - Se abre Bnet
+2025-10-08 03:59:46,955 - Ingreso a contratopersonas
+2025-10-08 03:59:46,977 - Se encuentra el campo dcto. principal
+2025-10-08 03:59:46,977 - La pagina se carga correctamente
+2025-10-08 03:59:49,995 - Se consulta el documento: 444444441
+2025-10-08 03:59:51,080 - El campo nombre es:SUPERGIROS DM, de la cedula: 444444441
+2025-10-08 03:59:51,396 - Se encontro el enlace: Personal ventas
+2025-10-08 03:59:56,674 - Se encuentra el campo Grupo de Planes
+2025-10-08 03:59:58,692 - Se escribe en el campo 
+2025-10-08 04:00:02,709 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="fcf1ff1f-93c6-4df8-9c2c-dcad93287f27")>
+2025-10-08 04:00:08,044 - Cargando... esperando que termine el proceso.
+2025-10-08 04:00:13,047 - Captura Pantalla: ./fotosPDV/444444441.png
+2025-10-08 04:00:20,400 - Envió imagen al Telegram
+2025-10-08 04:00:26,401 - Mensaje_exito: None.
+2025-10-08 04:00:26,432 - Se abre Bnet
+2025-10-08 04:00:34,716 - Ingreso a contratopersonas
+2025-10-08 04:00:34,732 - Se encuentra el campo dcto. principal
+2025-10-08 04:00:34,732 - La pagina se carga correctamente
+2025-10-08 04:00:37,734 - Se consulta el documento: 444444442
+2025-10-08 04:00:40,354 - El campo nombre es:SUPERGIROS DM, de la cedula: 444444442
+2025-10-08 04:00:41,141 - Se encontro el enlace: Personal ventas
+2025-10-08 04:00:46,412 - Se encuentra el campo Grupo de Planes
+2025-10-08 04:00:48,428 - Se escribe en el campo 
+2025-10-08 04:00:52,448 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="b129b35b-9b61-4730-9d45-6dd9968da37e")>
+2025-10-08 04:00:57,764 - Cargando... esperando que termine el proceso.
+2025-10-08 04:01:02,783 - Captura Pantalla: ./fotosPDV/444444442.png
+2025-10-08 04:01:09,417 - Envió imagen al Telegram
+2025-10-08 04:01:15,423 - Mensaje_exito: None.
+2025-10-08 04:01:15,461 - Se abre Bnet
+2025-10-08 04:01:23,264 - Ingreso a contratopersonas
+2025-10-08 04:01:23,264 - Se encuentra el campo dcto. principal
+2025-10-08 04:01:23,264 - La pagina se carga correctamente
+2025-10-08 04:01:26,272 - Se consulta el documento: 444444443
+2025-10-08 04:01:27,319 - El campo nombre es:SUPERGIROS DM, de la cedula: 444444443
+2025-10-08 04:01:28,099 - Se encontro el enlace: Personal ventas
+2025-10-08 04:01:33,368 - Se encuentra el campo Grupo de Planes
+2025-10-08 04:01:35,384 - Se escribe en el campo 
+2025-10-08 04:01:39,402 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="645bef4b-554a-441c-adaa-621498db5633")>
+2025-10-08 04:01:44,721 - Cargando... esperando que termine el proceso.
+2025-10-08 04:01:49,726 - Captura Pantalla: ./fotosPDV/444444443.png
+2025-10-08 04:01:56,369 - Envió imagen al Telegram
+2025-10-08 04:02:02,387 - Mensaje_exito: None.
+2025-10-08 04:02:02,402 - Se abre Bnet
+2025-10-08 04:02:10,408 - Ingreso a contratopersonas
+2025-10-08 04:02:10,408 - Se encuentra el campo dcto. principal
+2025-10-08 04:02:10,408 - La pagina se carga correctamente
+2025-10-08 04:02:13,410 - Se consulta el documento: 1006719691
+2025-10-08 04:02:14,464 - El campo nombre es:LUISA FERNANDA, de la cedula: 1006719691
+2025-10-08 04:02:15,243 - Se encontro el enlace: Personal ventas
+2025-10-08 04:02:20,519 - Se encuentra el campo Grupo de Planes
+2025-10-08 04:02:22,547 - Se escribe en el campo 
+2025-10-08 04:02:26,564 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="1e36c606-960e-4713-826d-281fade101d0")>
+2025-10-08 04:02:31,835 - Cargando... esperando que termine el proceso.
+2025-10-08 04:04:45,179 - Captura Pantalla: ./fotosPDV/1006719691.png
+2025-10-08 04:04:53,320 - Envió imagen al Telegram
+2025-10-08 04:04:59,326 - Mensaje_exito: None.
+2025-10-08 04:04:59,348 - Se abre Bnet
+2025-10-08 04:05:08,723 - Ingreso a contratopersonas
+2025-10-08 04:05:08,723 - Se encuentra el campo dcto. principal
+2025-10-08 04:05:08,723 - La pagina se carga correctamente
+2025-10-08 04:05:11,726 - Se consulta el documento: 1121946622
+2025-10-08 04:05:13,795 - El campo nombre es:MILER KATHERINE, de la cedula: 1121946622
+2025-10-08 04:05:14,111 - Se encontro el enlace: Personal ventas
+2025-10-08 04:05:19,372 - Se encuentra el campo Grupo de Planes
+2025-10-08 04:05:21,388 - Se escribe en el campo 
+2025-10-08 04:05:25,394 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="c753d1d1-e7b2-4767-8905-f785317d5225")>
+2025-10-08 04:05:30,687 - Cargando... esperando que termine el proceso.
+2025-10-08 04:07:45,962 - Captura Pantalla: ./fotosPDV/1121946622.png
+2025-10-08 04:07:53,161 - Envió imagen al Telegram
+2025-10-08 04:07:59,164 - Mensaje_exito: None.
+2025-10-08 04:07:59,180 - Se abre Bnet
+2025-10-08 04:08:07,056 - Ingreso a contratopersonas
+2025-10-08 04:08:07,056 - Se encuentra el campo dcto. principal
+2025-10-08 04:08:07,056 - La pagina se carga correctamente
+2025-10-08 04:08:10,071 - Se consulta el documento: 1006720627
+2025-10-08 04:08:11,126 - El campo nombre es:LEYDI, de la cedula: 1006720627
+2025-10-08 04:08:11,442 - Se encontro el enlace: Personal ventas
+2025-10-08 04:08:16,721 - Se encuentra el campo Grupo de Planes
+2025-10-08 04:08:18,744 - Se escribe en el campo 
+2025-10-08 04:08:22,760 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="7bd614f4-5d51-46a1-a431-328732a7f251")>
+2025-10-08 04:08:28,080 - Cargando... esperando que termine el proceso.
+2025-10-08 04:10:41,514 - Captura Pantalla: ./fotosPDV/1006720627.png
+2025-10-08 04:10:48,650 - Envió imagen al Telegram
+2025-10-08 04:10:54,670 - Mensaje_exito: None.
+2025-10-08 04:10:54,701 - Se abre Bnet
+2025-10-08 04:11:02,804 - Ingreso a contratopersonas
+2025-10-08 04:11:02,819 - Se encuentra el campo dcto. principal
+2025-10-08 04:11:02,819 - La pagina se carga correctamente
+2025-10-08 04:11:05,822 - Se consulta el documento: 1123565052
+2025-10-08 04:11:06,960 - El campo nombre es:LUZ MARI, de la cedula: 1123565052
+2025-10-08 04:11:07,292 - Se encontro el enlace: Personal ventas
+2025-10-08 04:11:12,547 - Se encuentra el campo Grupo de Planes
+2025-10-08 04:11:14,564 - Se escribe en el campo 
+2025-10-08 04:11:18,619 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="3a19426d-eea3-42ae-9a7a-5c737b4c40e7")>
+2025-10-08 04:11:23,925 - Cargando... esperando que termine el proceso.
+2025-10-08 04:13:37,247 - Captura Pantalla: ./fotosPDV/1123565052.png
+2025-10-08 04:13:44,298 - Envió imagen al Telegram
+2025-10-08 04:13:50,302 - Mensaje_exito: None.
+2025-10-08 04:13:50,325 - Se abre Bnet
+2025-10-08 04:13:58,147 - Ingreso a contratopersonas
+2025-10-08 04:13:58,163 - Se encuentra el campo dcto. principal
+2025-10-08 04:13:58,163 - La pagina se carga correctamente
+2025-10-08 04:14:01,167 - Se consulta el documento: 40413517
+2025-10-08 04:14:02,200 - El campo nombre es:ALBA AURORA, de la cedula: 40413517
+2025-10-08 04:14:02,515 - Se encontro el enlace: Personal ventas
+2025-10-08 04:14:07,799 - Se encuentra el campo Grupo de Planes
+2025-10-08 04:14:09,816 - Se escribe en el campo 
+2025-10-08 04:14:13,818 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="4d4887e5-29b4-4757-95cb-ebdba46bc40c")>
+2025-10-08 04:14:19,135 - Cargando... esperando que termine el proceso.
+2025-10-08 04:16:32,686 - Captura Pantalla: ./fotosPDV/40413517.png
+2025-10-08 04:16:40,267 - Envió imagen al Telegram
+2025-10-08 04:16:46,279 - Mensaje_exito: None.
+2025-10-08 04:16:46,294 - Se abre Bnet
+2025-10-08 04:16:54,148 - Ingreso a contratopersonas
+2025-10-08 04:16:54,163 - Se encuentra el campo dcto. principal
+2025-10-08 04:16:54,163 - La pagina se carga correctamente
+2025-10-08 04:16:57,164 - Se consulta el documento: 63251940
+2025-10-08 04:16:59,236 - El campo nombre es:MARITZA YANETH, de la cedula: 63251940
+2025-10-08 04:16:59,552 - Se encontro el enlace: Personal ventas
+2025-10-08 04:17:04,836 - Se encuentra el campo Grupo de Planes
+2025-10-08 04:17:06,852 - Se escribe en el campo 
+2025-10-08 04:17:10,853 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="784dc271-6e62-4d38-b013-665df82b079b")>
+2025-10-08 04:17:16,172 - Cargando... esperando que termine el proceso.
+2025-10-08 04:19:29,604 - Captura Pantalla: ./fotosPDV/63251940.png
+2025-10-08 04:19:36,956 - Envió imagen al Telegram
+2025-10-08 04:19:42,972 - Mensaje_exito: None.
+2025-10-08 04:19:42,988 - Se abre Bnet
+2025-10-08 04:19:51,429 - Ingreso a contratopersonas
+2025-10-08 04:19:51,429 - Se encuentra el campo dcto. principal
+2025-10-08 04:19:51,429 - La pagina se carga correctamente
+2025-10-08 04:19:54,439 - Se consulta el documento: 1006009495
+2025-10-08 04:19:55,994 - El campo nombre es:KAROL TATIANA, de la cedula: 1006009495
+2025-10-08 04:19:56,310 - Se encontro el enlace: Personal ventas
+2025-10-08 04:20:01,607 - Se encuentra el campo Grupo de Planes
+2025-10-08 04:20:03,624 - Se escribe en el campo 
+2025-10-08 04:20:07,644 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="0008d4aa-a1d8-4936-b2a6-31b0a42ada71")>
+2025-10-08 04:20:12,934 - Cargando... esperando que termine el proceso.
+2025-10-08 04:22:26,281 - Captura Pantalla: ./fotosPDV/1006009495.png
+2025-10-08 04:22:33,269 - Envió imagen al Telegram
+2025-10-08 04:22:39,286 - Mensaje_exito: None.
+2025-10-08 04:22:39,301 - Se abre Bnet
+2025-10-08 04:22:46,922 - Ingreso a contratopersonas
+2025-10-08 04:22:46,937 - Se encuentra el campo dcto. principal
+2025-10-08 04:22:46,937 - La pagina se carga correctamente
+2025-10-08 04:22:49,940 - Se consulta el documento: 1002596538
+2025-10-08 04:22:50,994 - El campo nombre es:MALLERLY PAOLA, de la cedula: 1002596538
+2025-10-08 04:22:51,311 - Se encontro el enlace: Personal ventas
+2025-10-08 04:22:56,601 - Se encuentra el campo Grupo de Planes
+2025-10-08 04:22:58,618 - Se escribe en el campo 
+2025-10-08 04:23:02,635 - Se encontro el boton guardar: <selenium.webdriver.remote.webelement.WebElement (session="48ebb631-7c98-4c44-ad6f-ae367f7b1604", element="00e056d6-f10e-4293-bd72-77b7c4041f64")>
+2025-10-08 04:23:07,954 - Cargando... esperando que termine el proceso.
+2025-10-08 04:25:21,362 - Captura Pantalla: ./fotosPDV/1002596538.png
+2025-10-08 04:25:28,392 - Envió imagen al Telegram
+2025-10-08 04:25:34,419 - Mensaje_exito: None.
