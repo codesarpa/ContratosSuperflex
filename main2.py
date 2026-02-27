@@ -130,7 +130,7 @@ def login():
         password_field = driver.find_element(By.ID, "idFormLogin:password")
         # PRUEBAS password_field.send_keys("795CP")
         # password_field.send_keys("ve56gv79")
-        password_field.send_keys("Stiff356")
+        password_field.send_keys("Stiff123")
         logging.info("Se encuentra el campo contraseña")
         print("Se encuentra el campo contraseña")
         # Hacer clic en el botón de ingresar
